@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The brief observations of J.C. concerning trade and interest of money, briefly examined by H.R.</title>
+            <author>H. R.</author>
+         </titleStmt>
+         <extent>Approx. 97KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28626</idno><idno type="EEBO-CITATION">13207715</idno>
+  <idno type="VID">199386</idno>
+  <idno type="EEBO-PROQUEST">2240849436</idno>
+  
+            <idno type="STC">Wing R20</idno>
+            <idno type="OCLC">13207715</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199386)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 435:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The brief observations of J.C. concerning trade and interest of money, briefly examined by H.R.</title>
+                  <author>H. R.</author>
+               </titleStmt>
+               <extent>82 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Child, Josiah, --  Sir, 1630-1699. --  Brief observations concerning trade and interest of money.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199386:1"/>
+            <pb facs="tcp:199386:2"/>
+            <pb facs="tcp:199386:2"/>
+            <p>THE BRIEF <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>BSERVATIONS of <hi>J.C.</hi>
+            </p>
+            <p>Concerning TRADE And <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>NTEREST of MONEY, Briefly EXAMINED.</p>
+            <p>By <hi>H. R.</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>
+                  <hi>Epicharm.</hi>
+               </bibl>
+            </q>
+            <q>All is not Gold that glisters.</q>
+            <p>Printed <hi>Anno Dom.</hi> 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:199386:3"/>
+            <pb n="3" facs="tcp:199386:3"/>
+            <head>
+               <hi>J. C</hi>'s OBSERVATIONS Examined.</head>
+            <p>THe Consistency of Kingdoms and Commonwealths in their Politick Estate, compos'd of a numberless Number of rational In<g ref="char:EOLhyphen"/>dividuals, variously Opinion'd; yet <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ubjugated by the callid contrivan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es of ambitious Animals, of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ame Species with themselves, su<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erscrib'd with the Artificial Term <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>AW,</hi> is none of the least Won<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ers in Nature. But Practice, the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>reat faciliatrix of all humane Af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>irs, hath made this Obedience so <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>miliar, that unless by irregular Mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ons we have forgotten to aspire,
+<pb n="4" facs="tcp:199386:4"/> Yet is not the desire of Dominion in us so totally extinguisht, but that some sparks from thence some<g ref="char:EOLhyphen"/>times evaporate. And as none of the precedent ages of the World hath passed over, without production of some persons busying themselves in the grand concernments of the King<g ref="char:EOLhyphen"/>dom, so this latter hath redounded with many: some in matters of Reli<g ref="char:EOLhyphen"/>gion, others of Government; some in Affairs of State, others of Trade, <hi>&amp;c.</hi> of which later, my present Au<g ref="char:EOLhyphen"/>thor is become a zealous well-willer of Reformation.</p>
+            <p>And although upon my first per<g ref="char:EOLhyphen"/>lection of his Book, I could subscribe to few of his Opinions; yet I had no inclination to tell him so, especially in Print; for I am well admonished, <hi>Faciendi libros multos nullum esse finem.</hi> But being conjur'd thereunto
+<pb n="5" facs="tcp:199386:4"/> by an ingenious and judicious Gen<g ref="char:EOLhyphen"/>tleman, and having some spare hours, which yet (I must confess) might have been more profitably imploy'd, I was prevail'd withal, to take some considerations thereupon, and after<g ref="char:EOLhyphen"/>wards to publish them. And so I pass to my Author.</p>
+            <p>
+               <label>Paragraph I.</label> THe prodigious increase of the <hi>Netherlanders</hi> in their Domestique and Forreign Trade, ri<g ref="char:EOLhyphen"/>ches, and multitude of Shipping, is the envy of the present, and may be the wond<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of all future Generations: and yet the means whereby they have thus advanc'd themselves, are sufficiently obvi us, and in a great measure imitable by most <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther Na<g ref="char:EOLhyphen"/>tions, but more easily by us of the Kingdom of <hi>En<g ref="char:EOLhyphen"/>gland;</hi> which I shall endeavour to demonstrate in the following discourse.</p>
+            <p>
+               <hi>Examen I.</hi>
+            </p>
+            <p>'Tis very natural to men, <hi>Invidere opes habentibus,</hi> to emulate their richer neighbours; and so may it be with Na<g ref="char:EOLhyphen"/>tions. But how the increase of the riches
+<pb n="6" facs="tcp:199386:5"/> of the <hi>Dutch</hi> should be a Wonder, and yet sufficiently obvious, I cannot deter<g ref="char:EOLhyphen"/>mine.</p>
+            <p>
+               <label>Paragraph II.</label> Some of the said means by which they have ad<g ref="char:EOLhyphen"/>vanc'd their Trade, and thereby improved their Estates, are these following.</p>
+            <p>
+               <hi>Examen II.</hi>
+            </p>
+            <p>Here follows the Fleet of my Au<g ref="char:EOLhyphen"/>thors fifteen Demonstrations, concern<g ref="char:EOLhyphen"/>ing the force of which, I shall little en<g ref="char:EOLhyphen"/>quire, more then of the last, whereup<g ref="char:EOLhyphen"/>on he hath erected his Flag of Defiance. But <hi>alterno pollice ductus,</hi> I cannot steer by the other, without giving some Guns of salutation.</p>
+            <p>
+               <label>Paragraph III.</label> First, They have in their greatest Courcels of State and War, Trading-Merchants, that have lived abroad in most parts of the World; who have not only the theoretical knowledge, but the practical experience of Trade; by whom Laws and Orders are contriv'd, and Peaces with forreign Princes projected, to the great advantage of their Trade.</p>
+            <pb n="7" facs="tcp:199386:5"/>
+            <p>
+               <hi>Examen III.</hi>
+            </p>
+            <p>
+               <hi>Trading Merchants, &amp;c.</hi> The great<g ref="char:EOLhyphen"/>est Councels of the <hi>Dutch</hi> must necessa<g ref="char:EOLhyphen"/>rily contain many Merchants, when few others are amongst them capable there<g ref="char:EOLhyphen"/>of: But there is not that necessity in <hi>England,</hi> a Countrey abounding with many Gentlemen of large endowments, whereof the minor part are Merchants. However, not many Laws concerning Trade, are made without their advice.</p>
+            <p>
+               <label>Paragr. IV.</label> Secondly, Their Law of <hi>Gavel-kind,</hi> whereby all their Children possess an equal share of their Fa<g ref="char:EOLhyphen"/>thers Estate after their decease, and so are n<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t left to wrastle with the World in their youth with in<g ref="char:EOLhyphen"/>considerable assistance of fortune, as most of our youngest sons of Gentlemen are, who are bound Apprentices to Merchants.</p>
+            <p>
+               <hi>Exam. IV.</hi>
+            </p>
+            <p>
+               <hi>Gavel-kind, &amp;c.</hi> The Law of <hi>Gavel-kind</hi> is a certain Law to delete the gran<g ref="char:EOLhyphen"/>deur of ancient Families, and at last to extirpate them: Which foreseen by
+<pb n="8" facs="tcp:199386:6"/> 34 Gentlemen at one time of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Kent,</hi> where this Custom most pre<g ref="char:EOLhyphen"/>vail'd; they (to prevent those evils, and to secure their posterity from crum<g ref="char:EOLhyphen"/>bling into Yeomanry, wherewith that County by such means memorably a<g ref="char:EOLhyphen"/>bounded) complained thereof in Par<g ref="char:EOLhyphen"/>liament; and were redrest by the Sta<g ref="char:EOLhyphen"/>tute 31 <hi>Hen.</hi> 8. <hi>cap.</hi> 3, whereby their lands were decreed to discend as Inhe<g ref="char:EOLhyphen"/>ritance<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at the Common Law. And therefore, although this Law may be convenient for <hi>Holland,</hi> yet 'tis altoge<g ref="char:EOLhyphen"/>ther inconvenient for <hi>England,</hi> even a<g ref="char:EOLhyphen"/>mong Merchants themselves; where experience assures us, That men of small beginnings become industrious, and acquire bigger Fortunes then those of great.</p>
+            <p>
+               <label>Paragr. V.</label> Thirdly, their exact making of all their native commodities, and packing of their Herrings, God<g ref="char:EOLhyphen"/>fish, and all other Commodities which they send a<g ref="char:EOLhyphen"/>broad in great quantities: the consequence whereof is, that the repute of their said Commodities a<g ref="char:EOLhyphen"/>broad continues always good, and the buyers will accept of them by the Marks, without opening; whereas the Fish which our English make in <hi>New-found-land</hi>
+               <pb n="9" facs="tcp:199386:6"/> and <hi>New-England,</hi> and Herrings at <hi>Yarmouth,</hi> often prove false and deceitfully made, and our Pilchards from the West-country false pac<g ref="char:EOLhyphen"/>ked, seldom containing the quantity for which the Hogsheads are marked in which th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y are packed. And in <hi>England</hi> the attempts which our fore-fa<g ref="char:EOLhyphen"/>thers made for regulating of Manufactors, when left to the execution of some particular person, in a short time resolved but into a Tax upon the Com<g ref="char:EOLhyphen"/>modity, without respect to the goodness thereof; as most notoriously appears in the business of Aulnage, which doubtless our predecessors intended for a scru<g ref="char:EOLhyphen"/>tiny into the goodness of the Commodity; and to that purpose a Seal was invented, as a Signal that the Commodity was made according to the Statutes; which Seals, it is said, may n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w be bought by thou<g ref="char:EOLhyphen"/>sands, and put upon what the buyers please.</p>
+            <p>
+               <hi>Exam. V.</hi>
+            </p>
+            <p>
+               <hi>Packing of their Fish,</hi> &amp;c. This in<g ref="char:EOLhyphen"/>deed is obvious, That if the English Merchants Fish be not so good, and as well packt as are the Dutch, they can<g ref="char:EOLhyphen"/>not expect for them so good a Market: <hi>Namquae{que} valet tanti, quanti merx ven<g ref="char:EOLhyphen"/>ditur omni.</hi>
+            </p>
+            <p>
+               <hi>Aulnage,</hi> &amp;c. The duty of Aulnage, by importation of the word, seems ra<g ref="char:EOLhyphen"/>ther to me, to be primarily intended for <hi>Hallage,</hi> or Warehouse-room, then for
+<pb n="10" facs="tcp:199386:7"/> inspection of the Commodity. But con<g ref="char:EOLhyphen"/>cerning that, we will have no difference.</p>
+            <p>
+               <label>Paragr. VI.</label> Fourthly, their giving great encouragement and immunities to the Inventors of new Manufactures, and the Discoverers of any new Mysteries in Trade, and to those that shall bring the Commodities of other Nations first in use and practice amongst them, for which the Author never goes without his due reward allow'd him at the publike charge.</p>
+            <p>
+               <hi>Exam. VI.</hi>
+            </p>
+            <p>
+               <hi>Due reward,</hi> &amp;c. So is it in <hi>England;</hi> for the encouragement of Ingenuity, the discoverer shall have the first four<g ref="char:EOLhyphen"/>teen years profit to himself, by the Sta<g ref="char:EOLhyphen"/>tute 21 <hi>Jac. cap.</hi> 3.</p>
+            <p>
+               <label>Paragr. VII.</label> Fifthly, their contriving and building of great Ships to sail with small charge, not above one third of what we are at, for Ships of the same burthen in <hi>England;</hi> and compelling their said Ships, be<g ref="char:EOLhyphen"/>ing of small force, to sail always in Fleets, to which in all times of danger they allow Convoy.</p>
+            <pb n="11" facs="tcp:199386:7"/>
+            <p>
+               <hi>Exam. VII.</hi>
+            </p>
+            <p>
+               <hi>Their contriving,</hi> &amp;c. If we are at more charge in the making and sailing of our Ships, it is retributed in their being better, and sailing faster. But if a defect of skill be, I have charity to thinks 'tis more our misfortune then fault.</p>
+            <p>
+               <hi>To sail in Fleets,</hi> &amp;c. This is a care (I conceive) left to all Mariners discre<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <label>Paragr. VIII.</label> Sixthly, their parsimonious and thrifty living, which is so extraordinary, that a Merchant of <hi>100000 l.</hi> estate with them, will scarce spend so much <hi>per an.</hi> as one of <hi>1500 l.</hi> in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Exam. VIII.</hi>
+            </p>
+            <p>
+               <hi>Will scarce spend,</hi> &amp;c. Though the disproportion of estate here be very great, I shall not now question it. But in expence, I do believe the Dutch are left to their liberty as we are: those that will be good husbands may; and those that will not, <hi>qui coenas &amp; plumas Sar<g ref="char:EOLhyphen"/>danapali
+<pb n="12" facs="tcp:199386:8"/> amant,</hi> have no Law to re<g ref="char:EOLhyphen"/>strain them.</p>
+            <p>
+               <label>Paragr. IX.</label> Seventhly, the Education of their Children, as well daughters as sons; all which, be they never of so great quality or estate, they always take care to bring up to write perfect good hands, and to have the full knowledge and use of Arithmetick and Merchants Accompts; the well understanding and practice whereof, doth strang<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly infuse into most that are the owners of that quality of either sex, not onely an ability for Commerce of all kindes, but a strong aptitude, love and delight in it: and in regard the women are therein as knowing as the men, it doth encourage their husbands to hold on in their Trades to their dying days, knowing the capacity of their wives to get in their Estates, and carry on their Trades after their deaths: whereas if a Merchant in <hi>England</hi> arrive at any conside<g ref="char:EOLhyphen"/>rable estate, he commonly withdraws his estate from Trade before he comes neer the confines of old-age; reckoning, that if God should call him out of the world while the main of his estate is engaged a<g ref="char:EOLhyphen"/>broad in Trade, he must lose one third of it, through the unexperience and unaptness of his wife to such affairs; and so it usually falls out. Besides, it hath been observed in the nature of Arithmetick, that, like other parts of the Mathematicks, it doth not onely improve the rational faculties, but in<g ref="char:EOLhyphen"/>clines those that are expert in it to thriftiness and
+<pb n="13" facs="tcp:199386:8"/> good husbandry, and prevents both husbands and wives in some measure from running out of their estates, when they have it always ready in their heads what their expences do amount unto, and how soon by that course their ruine might overtake them.</p>
+            <p>
+               <hi>Exam. IX.</hi>
+            </p>
+            <p>
+               <hi>The Education,</hi> &amp;c. The trading part of the people of <hi>England</hi> generally, as well as the Gentry, give their children good education, and as much as they deem needful; there being no direct necessity of making them all Merchants. But that which my Author discom<g ref="char:EOLhyphen"/>mends them in, renders them more praise-worthy: for if most men should here spin out the threds of their whole lives in their Professions, it would ra<g ref="char:EOLhyphen"/>ther discommodate, then advantage the Nation, by excluding Succession.</p>
+            <p>
+               <label>Paragr. X.</label> Eighthly, the lowness of their Customs, and the height of their Excise, which is certainly the most equal and indifferent Tax in the world, and least prejudicial to any people, as might be made appear, were it the subject of this discourse.</p>
+            <pb n="14" facs="tcp:199386:9"/>
+            <p>
+               <hi>Exam. X.</hi>
+            </p>
+            <p>That Tax which is most advantage<g ref="char:EOLhyphen"/>ous to the King, and least burthensome to the people, is certainly the most grateful. But whether Excise be so, it lies not in my way to inquire.</p>
+            <p>
+               <label>Paragr. XI.</label> Ninthly, The careful providing for, and im<g ref="char:EOLhyphen"/>ployment of their poor, which it is easy to demon<g ref="char:EOLhyphen"/>strate, can never be done in <hi>England,</hi> compara<g ref="char:EOLhyphen"/>tively to what it is with them, while it is left to the care of every Parish to look after their own only.</p>
+            <p>
+               <hi>Exam. XI.</hi>
+            </p>
+            <p>
+               <hi>The careful providing, &amp;c.</hi> The course that the <hi>Dutch</hi> take to imploy and provide for their poor, is not feasible in <hi>England,</hi> nor can be so, unless you will suppose <hi>England</hi> to be, what in truth it is not, onely a Warehouse for trade, as <hi>Holland</hi> is. And there is no doubt, if with us a better way had been then the Laws have ordained, some Parliament or other had ere this, found it out.</p>
+            <pb n="15" facs="tcp:199386:9"/>
+            <p>
+               <label>Paragr. XII.</label> Tenthly, Their use of Banks, which are of so immense advantage to them, that some not with<g ref="char:EOLhyphen"/>out good grounds have estimated the profit of them to the Publique, to amount to at least one million of pounds sterling <hi>per ann.</hi>
+            </p>
+            <p>
+               <hi>Exam. XII.</hi>
+            </p>
+            <p>
+               <hi>Their use of Banks, &amp;c.</hi> The Bank of <hi>Amsterdam,</hi> to omit the rest which are less considerable, hath made a great noise in the World; the value thereof being calculated at many millions: and no doubt but it hath been of great ad<g ref="char:EOLhyphen"/>vantage to many persons, who have pla<g ref="char:EOLhyphen"/>ced money there, and received the same with interest when their occasions have wanted it; which (according to the laudable custome of some of our Ban<g ref="char:EOLhyphen"/>kers in <hi>London</hi>) hath been punctually payd. But when it hath been consider<g ref="char:EOLhyphen"/>ed, that this Bank is nothing else but a Treasury or Repository for Mony, and that the interest of one sum is paid out of the principal of another; and that the value thereof can be no otherwise
+<pb n="16" facs="tcp:199386:10"/> estimated then by the Debt it hath con<g ref="char:EOLhyphen"/>tracted; It has been concluded that this Bank is in truth Bankrupt, and at last <hi>fulminans saevo ore minas,</hi> must break like the Thunder-claps of <hi>Jupiter;</hi> which hath caused the credit thereof to be declin'd by many of the wiser men of that Nation. Therefore what advan<g ref="char:EOLhyphen"/>tage Banks will be to us of this King<g ref="char:EOLhyphen"/>dom, I understand not, more then some ease to Merchants and Publique deal<g ref="char:EOLhyphen"/>ers in receiving and payment of their Moneys; and in that case only they may be necessary, I cannot say conve<g ref="char:EOLhyphen"/>nient. But if it be intended that these Banks shall allow interest for Money de<g ref="char:EOLhyphen"/>posited in them, it is impossible they should continue; and if it be not so in<g ref="char:EOLhyphen"/>tended, I cannot see that immense bene<g ref="char:EOLhyphen"/>fit they can bring to the Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p>And whereas many men conceive a good opinion of publick Banks, having been well dealt withal by private, for that those persons who have taken up large sums of Money, have given the ut<g ref="char:EOLhyphen"/>most rate of Interest, and yet comply'd with the Lender in all their obligations
+<pb n="17" facs="tcp:199386:10"/> in point of time; which though it be true of some, yet it may be considered, that those Gentlemen must make ten <hi>per Cent.</hi> of the Money they so borrow, <hi>aut in exitium praecipitare,</hi> or go back<g ref="char:EOLhyphen"/>wards. And this must be done, either by Trade, Chevisance, or by Loan. If by Trade, and their intendments therein prove unsuccessful, as often they do with persons of far greater intelligence, <hi>&amp;c.</hi> or Loan, and the illegality be discovered and punished, as it may justly happen, notwithstanding the privity or species of its management; In either of these cases, the damage in great probability must mediately fall upon the Lender. And sel<g ref="char:EOLhyphen"/>dom have I known Projectors, Law-brea<g ref="char:EOLhyphen"/>kers, or persons procuring unreasonable Bargains to themselves, that in the end have got any thing thereby but loss: and although such persons may not presently sink under these indamage<g ref="char:EOLhyphen"/>ments (for he that has credit for 40000 <hi>l.</hi> cannot fail by the loss of twenty) yet at last they must yeild to Fate, when death, <hi>linea quae summas &amp; sortes exi<g ref="char:EOLhyphen"/>mitimos,</hi> takes them away, or the grand Test of every man's calling for his own.</p>
+            <pb n="18" facs="tcp:199386:11"/>
+            <p>
+               <label>Paragr. XIII.</label> Eleventhly, Their Toleration of different Opi<g ref="char:EOLhyphen"/>nions in matters of Religion, by reason whereof ma<g ref="char:EOLhyphen"/>ny industrious people of other Countries that dissent from the established Government of their own Churches, resort to them with their Families and E<g ref="char:EOLhyphen"/>states, and after a few years cohabitation with them, become of the same common interest.</p>
+            <p>
+               <hi>Exam. XIII.</hi>
+            </p>
+            <p>
+               <hi>Their Toleration, &amp;c.</hi> That Tolera<g ref="char:EOLhyphen"/>tion in Religion should be a proximate cause of Trade, and so of Riches, I am yet to be convinc'd: but on the contra<g ref="char:EOLhyphen"/>ry, union in Religion rather begets Cor<g ref="char:EOLhyphen"/>respondency the mother of Commerce, which Toleration destroys. For a peo<g ref="char:EOLhyphen"/>bound in a general Society, are calm and temperate; but when liberty is gi<g ref="char:EOLhyphen"/>ven them, they fall into particular Fa<g ref="char:EOLhyphen"/>ctions, which (by the opportunity of publique allowance) bandy together, whereby feuds and discontents arise; and fomented by their precipitate A<g ref="char:EOLhyphen"/>gents, like the pugnation of malignant humours in the Body, tend to the de<g ref="char:EOLhyphen"/>struction of the whole.</p>
+            <pb n="19" facs="tcp:199386:11"/>
+            <p>
+               <label>Paragr. XIV.</label> Twelfthly, Their Law-Merchant, by which all Controversies between Merchants and Tradesmen are decided in three or four days time; and that not at the fortieth part, I might say in many Ca<g ref="char:EOLhyphen"/>ses, not the hundredth part of the charge they are with us.</p>
+            <p>
+               <hi>Exam. XIV.</hi>
+            </p>
+            <p>
+               <hi>Decided in three or four days,</hi> &amp;c. Sudden Judgment must needs be dan<g ref="char:EOLhyphen"/>gerous to the people, who in few days may not be so well provided to manage their Causes, as in many; and none in matters of <hi>meum</hi> and <hi>tuum</hi> ought to be surpriz'd. Therefore the Common Laws of <hi>England</hi> for decision of Controver<g ref="char:EOLhyphen"/>sies have due commendation beyond all other Laws of the World.</p>
+            <p>
+               <hi>Fortieth part of the Charge,</hi> &amp;c. The excess of Fees (if any be) as it had commencement by Custome, so may it be retrench'd by those who apprehend it a Grievance.</p>
+            <pb n="20" facs="tcp:199386:12"/>
+            <p>
+               <label>Paragr. XV.</label> Thirteenthly, The Law that is in use amongst them for transferrence of Bills for Debt from one man to another, this is of extraordinary advantage to them in their Commerce; by means whereof they can turn their St<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cks twice or thrice in Trade for once that we can do in <hi>England,</hi> for that having sold our Forreign goods here, we cannot buy again to advantage, till we are possest of our Money, which it may be shall be six, nin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or twelve months in recovering. And if what we sell be considerable, it is a good mans work all the year to be following Vintners and Shop keepers for Money. Whereas were the Law for transferring Bills in practise with us, we could presently after sale of our goods dispose of our Bills, and close up our Accounts: to d which, the advantage, ease, and accommodati<g ref="char:EOLhyphen"/>ons it would be to Trade is so great, that none but Merchants that have lived where that Custome is in use, can value its due proportion.</p>
+            <p>
+               <hi>Exam. XV.</hi>
+            </p>
+            <p>
+               <hi>Transferrence of Bills,</hi> &amp;c. This is already practised in <hi>England</hi> by many, especially Merchants: but if it should have the Authority of a general Law, it might occasion forgery, deceit, main<g ref="char:EOLhyphen"/>tenance, <hi>&amp;c.</hi> against which many whol<g ref="char:EOLhyphen"/>some
+<pb n="21" facs="tcp:199386:12"/> Laws have heretofore been provi<g ref="char:EOLhyphen"/>ded. And many other evils there are that may thereupon happen, which can<g ref="char:EOLhyphen"/>not easily be foreseen. For the turning of the streams of Law, are like the turn<g ref="char:EOLhyphen"/>ing of great Rivers, which not securely done, threatens destruction to the un<g ref="char:EOLhyphen"/>dertakers.</p>
+            <p>
+               <label>Paragr. XVI.</label> Fourteenthly, Their keeping up publike Regi<g ref="char:EOLhyphen"/>sters of all Lands and Houses sold or mort-gag'd, whereby many chargeable Law-suits are prevent<g ref="char:EOLhyphen"/>ed, and the securities of Land and Houses rendred indeed, such as we c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmonly call them, real secu<g ref="char:EOLhyphen"/>rities.</p>
+            <p>
+               <hi>Exam. XVI.</hi>
+            </p>
+            <p>
+               <hi>Publique Registers</hi> amongst us (I fear) would prove more fatal in their conse<g ref="char:EOLhyphen"/>quences, then commodious in their use; wounding Credit, the ligament of Soci<g ref="char:EOLhyphen"/>ety, to its great injury, if not destructi<g ref="char:EOLhyphen"/>on. For what Gentlemen, aswel those whose intayl'd Estates shall appear up<g ref="char:EOLhyphen"/>on Record, as those whose Estates shall there disppear, will be trusted? And
+<pb n="22" facs="tcp:199386:13"/> Gentlemen who now desire privacie in their transactions, will by this way make them publike? So will it gratifie nei<g ref="char:EOLhyphen"/>ther the Lender nor the Borrower. Be<g ref="char:EOLhyphen"/>sides, it may rather beget Suits then pre<g ref="char:EOLhyphen"/>vent them. For false Conveyances may be Registred aswel as true; and with this Authority of right, the Cheat having a better face, may pass the curranter; which will be a means to put the cun<g ref="char:EOLhyphen"/>ning Veterators of the Law upon the sins of Forgery and P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rjury, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label>Paragr. XVII.</label> Lastly, The lowness of Interest of Money with them, which in peaceable times exceeds not three <hi>per Cent. per ann.</hi> and is now during the War with <hi>England</hi> not above four <hi>per Cent.</hi> at most. Some more particulars might be added, and those afore<g ref="char:EOLhyphen"/>said farther improved, were it my purpose to dis<g ref="char:EOLhyphen"/>course at large of Trade. But seeing most of the former particulars are observed and granted by a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l men that make it any part of their business to in<g ref="char:EOLhyphen"/>spect the true nature and principles of Trade, but the la t is not so much as taken notice of by the mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ingenious, to be any cause of the great increase of the Riches and Commerce of that People; I shall therefore in this Paper confine my s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf to write principally my Observations touching that, <hi>viz.</hi> The profi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t that that People have recieved, and any
+<pb n="23" facs="tcp:199386:13"/> other may receive, by reducing the Interest of Mo<g ref="char:EOLhyphen"/>ney to a very low rate. This in my poor Opinion, is the <hi>causa causans</hi> of all the other causes of the Riches of that People; and that if interest of Mo<g ref="char:EOLhyphen"/>ney were with us reduced to the same rate it is with them, it would in a short time render us as rich and considerable in Trade as they are now, and conse<g ref="char:EOLhyphen"/>quently be of greater damage to them, and advan<g ref="char:EOLhyphen"/>tage to us, then can happen by the issue of this pre<g ref="char:EOLhyphen"/>sent War, though the success of it be as good as we can wish; except it end in their total ruine and ex<g ref="char:EOLhyphen"/>tirpation.</p>
+            <p>
+               <hi>Exam. XVII.</hi>
+            </p>
+            <p>
+               <hi>The lowness of Interest,</hi> &amp;c. This is the great point on which my Author expatiates; and to proceed methodi<g ref="char:EOLhyphen"/>cally, he sums up the matter into a Doctrinal Position, <hi>à causa proegumena,</hi> The profit that people have received, and may receive by reducing Interest of Money to a very low rate: and this he endeavours to illustrate <hi>rationem iti<g ref="char:EOLhyphen"/>nere;</hi> but what Reasons they are, and how opposite for his purpose, shall be enquired.</p>
+            <pb n="24" facs="tcp:199386:14"/>
+            <p>
+               <label>Paragr. XVIII.</label> To illustrate this, let us impartially search our Books, and inquire what the state and condition of this Kingdome was, as to Trade and Riches, before any Law concerning Interest of Money was made. The first whereof that I can finde, was <hi>Ann. 1545.</hi> and we shall be informed, that the Trade of <hi>En<g ref="char:EOLhyphen"/>gland</hi> then was inconsiderable, and the Merchants very mean and few: and that afterwards, <hi>viz. Anno 1635.</hi> within ten yea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s after Interest was brought down to eight <hi>per cent.</hi> there was more Merchants to be found upon the <hi>Exchange</hi> worth each one thousand pounds and upwards, then were in the former days, <hi>viz.</hi> before the year <hi>1600,</hi> to be found worth one hundred pounds each. And now since Interest hath been for about twenty years at six <hi>per cent.</hi> notwithstanding our long Civil Wars, and the great complaints of deadness of Trade, there are more men to be found upon the <hi>Exchange</hi> now worth ten thousand pound Estates, then were then of one thousand pounds. And if this be doubted, let us ask the aged, whether five hun<g ref="char:EOLhyphen"/>dred pounds Portion with a Daughter sixty years ago, were n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t esteemed a larger proportion then two thousand pounds is now: And whether Gentlew<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>men in those days would not esteem themselves well cloathed in a Serge Gown, which a Chamber-maid now will be ashamed to be seen in: whether our Citizens and middle sort of Gentry now, are not more rich in Cloaths, Plate, Jewels, and Hous<g ref="char:EOLhyphen"/>hold Goods, <hi>&amp;c.</hi> then the best sort of Knights and
+<pb n="25" facs="tcp:199386:14"/> Gentry were in those days. And whether our best sort of Knights and Gentry now, do not exceed by much in those things the Nobility of <hi>England</hi> sixty years past: many of whom then would not go to the price of a whole Sattin Doublet; the Embroiderer being yet living, who hath assured me he hath made many hundreds of them for the Nobility with Can<g ref="char:EOLhyphen"/>vas backs.</p>
+            <p>
+               <hi>Exam. XVIII.</hi>
+            </p>
+            <p>
+               <hi>The state and condition,</hi> &amp;c. That the Trade of <hi>England</hi> was not so con<g ref="char:EOLhyphen"/>siderable formerly to what it has been of late, as I cannot remember, so I shall not deny. And that Merchants are worth more in <hi>pecuniis numeratis</hi> then antiently they were, I do believe, though not in my Authors proportion. And that five hundred pounds sixty years ago had the esteem that 2000 <hi>l.</hi> has now, may be true. And that the Gentry, <hi>&amp;c.</hi> live more magnificently now then formerly, may be so to. But that this increase of Trade, and access of Wealth, is to be ascrib'd to the redu<g ref="char:EOLhyphen"/>ction of the rate of Interest-Money, seems to me not only improbable, but irrational; and any other remote matter
+<pb n="26" facs="tcp:199386:15"/> might aswel have been assign'd as this. For the true cause of the magnitude of Trade, and consequently of substance, ought genuinely to be imputed to these, <hi>viz. That Merchants have now a more general acquaintance and converse in the World, many parts thereof being of late time discovered and implanted; much more industry used; Mens under<g ref="char:EOLhyphen"/>standings therein more enlightned and improved,</hi> rather then their Estates ad<g ref="char:EOLhyphen"/>vantaged by reduction of two <hi>per cent. per annum</hi> in interest. And there is no doubt if a lowness of Loan would have heretofore propagated Commerce, King <hi>Hen.</hi> the third, <hi>Edward</hi> the third, and <hi>Richard</hi> the second, who were all very studious in matters of Trade, and made divers Laws for incouragement of Mer<g ref="char:EOLhyphen"/>chants, would not have omitted that. And because many mens Estates are now like tumors risen to greater bulks then formerly, it is not so much by acquisi<g ref="char:EOLhyphen"/>tion of Riches, (setting their late ad<g ref="char:EOLhyphen"/>vantages of Trade aside) as the plenty of Gold and silver, which of late time in great abundance have been washed from the surface, and drawn from the
+<pb n="27" facs="tcp:199386:15"/> bowels of the Earth. And that is the rea<g ref="char:EOLhyphen"/>son why 2000 <hi>l.</hi> now, is no greater a por<g ref="char:EOLhyphen"/>tion then 500 <hi>l.</hi> sixty years ago; and that 500 <hi>l.</hi> sixty years ago, made as rich a man as 2000 <hi>l.</hi> now. And doubtless, had we as little Money in quantity now, as was then, it would do so again. By the Statute made <hi>Anno</hi> 1 <hi>Ed.</hi> 2. he who had 20 <hi>l. per ann.</hi> in Lands, <hi>&amp;c.</hi> might be distrained to take the honour of Knighthood. Afterwards in the 18 <hi>H.</hi> 6. when Money, not Land was more plenty, A Knights fee was 40 <hi>l. per ann.</hi> And now no man is thought fit to re<g ref="char:EOLhyphen"/>ceive that Dignity in respect of his E<g ref="char:EOLhyphen"/>state, if it be not of the value of 500 <hi>l. per ann.</hi> And it cannot be well imagi<g ref="char:EOLhyphen"/>ned, That men of mean Estates were anciently by Law compellable to take Knighthoods; but that 20 <hi>l. per annum</hi> then was a fair Revenue, and held some reasonable proportion, both in quantity of Land and value, to 500 <hi>per ann.</hi> now. And to me appears no greater cause of this improvement, then the large quan<g ref="char:EOLhyphen"/>tities of Money produced by the price of our Commodities abroad, and the numerous Posterity at home that hath
+<pb n="28" facs="tcp:199386:16"/> suc<g ref="char:EOLhyphen"/>ceeded. As to that instance so far from the matter, concerning the Sattin Doub<g ref="char:EOLhyphen"/>lets, or the excess of the Gentry now, and their providence heretofore, shews rather the difference of their Husban<g ref="char:EOLhyphen"/>dry, then Thrift. For 'tis very rare that Gentlemen thrive by paying Interest for Money long, let them procure it at as low a rate as they can.</p>
+            <p>
+               <label>Paragr. XIX.</label> Which way ever we take our measures, to me it seems evident, that since our first abatement of In<g ref="char:EOLhyphen"/>terest, the riches and splendor <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f this Kingdom is increased to above four, I might say, above six times so much as it was.</p>
+            <p>
+               <hi>Exam. XIX.</hi>
+            </p>
+            <p>The Gentleman is very modest in this conclusion, and does not say, as no rea<g ref="char:EOLhyphen"/>son he has, That the Nation is impro<g ref="char:EOLhyphen"/>ved by, but since the first abatement of Interest-money. And I am of opinion, so it would have happened, if not better, had no abatement at all been. For that Money being the best Merchandise in the World, and therefore set in opposi<g ref="char:EOLhyphen"/>tion
+<pb n="29" facs="tcp:199386:16"/> to Lands, Goods, and all other things whatsoever, puts a value there<g ref="char:EOLhyphen"/>upon, according to the plenty or scarci<g ref="char:EOLhyphen"/>ty thereof: for if Money be plentiful, Lands are dear; but if scarce, then are they cheap; these rising and falling with the ebbing and flowing of the others; so that the Riches of the Nation may be said to consist chiefly, if not only in that commodity. Now if the Money of the people, aswel as the other parts of their Estates, had not been bound in by the chains of Law, but left at liberty to be imployed to the best advantage, why might not all our concerns have been in as prosperous a condition, if not more; And we in stead of swimming against the stream, have sailed with it? So here<g ref="char:EOLhyphen"/>after, if in reducing our Money by a Law, a scarcity thereof ensue, it being the very nature of Reduction to beget it; then does it follow, that all things purchaseable with Money, but those of absolute necessity, must be submitted to at the buyers price.</p>
+            <pb n="30" facs="tcp:199386:17"/>
+            <p>
+               <label>Paragr. XX.</label> We have now almost one hundred Coaches for one we had formerly; we with ease can pay a grea<g ref="char:EOLhyphen"/>ter Tax n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w in one year, then our Fore-fathers could in twenty.</p>
+            <p>
+               <hi>Exam. XX.</hi>
+            </p>
+            <p>If the Positions be true, the reasons thereof may be these, <hi>viz.</hi> First, be<g ref="char:EOLhyphen"/>cause by a generous Education we are arrived to a more honorable port of li<g ref="char:EOLhyphen"/>ving. And secondly, because our In<g ref="char:EOLhyphen"/>dustry has increast our fortunes; though perchance it would be better for some that keep their Coaches, to lay them a<g ref="char:EOLhyphen"/>side.</p>
+            <p>
+               <label>Paragr. XXI.</label> Our Customes are very much improved; I be<g ref="char:EOLhyphen"/>lieve above the proportion aforesaid of six to one, which is not so much in advance of the rates of Goods, as by increase of the bulk of Trade: for though some Forreign Commodities are advanc'd, others of our native Commodities and Manufa<g ref="char:EOLhyphen"/>ctures are considerably abated by the last Book of
+<pb n="31" facs="tcp:199386:17"/> Rates. I can my self remember since there were not in <hi>London</hi> used so many Wharfs or Keys for the landing of Merchants goods, by at least one third part as now they are: and those that were then, could scarce have imployment for half they could doe; and now, notwithstanding one third more u<g ref="char:EOLhyphen"/>sed to the same purpose, they are all too little in a time of Peace to land the Goods at that come to <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Exam. XXI.</hi>
+            </p>
+            <p>The Argument of this <hi>Paragraph</hi> must either be against my Author, or nothing to the purpose. For if he understands Reduction of Interest to be the cause of the Increase of the Bulk of Trade, he must certainly be mistaken; for 'tis plenty of Money that magnifies Trade, which (I think) will be concluded by no wise man so to be, when the rate thereof is reduc'd, as when unreduc'd. If he understands it otherwise, 'tis not within my conuzance.</p>
+            <pb n="32" facs="tcp:199386:18"/>
+            <p>
+               <label>Paragr. XXII.</label> If we look into the Country, we shall finde Lands as much improved since the abatement of Interest, as Trade, &amp;c. in Cities; that now yielding twen<g ref="char:EOLhyphen"/>ty years purchase, which then could not have sold for above eight or ten at most.</p>
+            <p>
+               <hi>Exam. XXII.</hi>
+            </p>
+            <p>And we might have found Lands as much improved as they are, if not more, had Interest not been abated. But I was never before informed, that when Mo<g ref="char:EOLhyphen"/>mey was reduc'd from ten <hi>per cent.</hi> to eight, Lands were at less then twenty years purchase. And I well remember when it was reduc'd to six, and yet Lands started not from that rate. So for us to reduce our Money lower, upon presumption of making Lands dear, is as much as to put out one of our eyes, in hopes that we may see the better with the other.</p>
+            <p>
+               <label>Paragr. XXIII.</label> Besides, The Rent of Farmers have been for these last thirty years much advanc'd; and al<g ref="char:EOLhyphen"/>though they have for these three or four last years
+<pb n="33" facs="tcp:199386:18"/> fallen, that hath no respect at all to the lowness of Interest at present, nor to the other mistaken Rea<g ref="char:EOLhyphen"/>sons which are commonly assigned for it; but prin<g ref="char:EOLhyphen"/>cipally to the vast improvement of <hi>Ireland,</hi> since a great part of it was lately possest by the industrious English, who were Souldiers in the late Army; and the late great Land-Taxes.</p>
+            <p>
+               <hi>Exam. XXIII.</hi>
+            </p>
+            <p>
+               <hi>Rent of Farmers advanc'd,</hi> &amp;c. Cattle and Corn, <hi>(cum terra at{que} injuria coeli in nos conjurantia alimenta negassent)</hi> bearing a good rate, set Lands some<g ref="char:EOLhyphen"/>what higher in their yearly value. But since <hi>(terra divite luxuriante proventu)</hi> they are both fallen, Lands are so too. And because this falling makes (as my Author thinks) against him, lowness of Interest nothing concerns it.</p>
+            <p>
+               <hi>Improvement of</hi> Ireland, <hi>&amp;c.</hi> But why <hi>Ireland</hi> (since the Act against im<g ref="char:EOLhyphen"/>porting Cattle thence has little advan<g ref="char:EOLhyphen"/>ced them here; and the Land-Taxes which not much concern Tenants) should be assigned for cause, I under<g ref="char:EOLhyphen"/>stand not.</p>
+            <pb n="34" facs="tcp:199386:19"/>
+            <p>
+               <label>Paragr. XXIV.</label> More might be said, but the premises considered I judge will sufficiently demonstrate how greatly this Kingdome of <hi>England</hi> hath been advanc'd in all respects for these last fifty years: and that the abatement of Int<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rest hath been the cause thereof, to me seems most probable, because as it appears it hath been in <hi>England,</hi> so I find it is at this day in all <hi>Europe,</hi> and other parts of the World; inso<g ref="char:EOLhyphen"/>much that to kn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w whether any Country be rich or poor, or in what proportion it is so, no other Que<g ref="char:EOLhyphen"/>stion needs to be resolved, but this, <hi>viz.</hi> what Inte<g ref="char:EOLhyphen"/>rest do they pay for Money? Neer home, we see it evi<g ref="char:EOLhyphen"/>dently in <hi>Scotland</hi> and <hi>Ireland,</hi> where ten and twelve <hi>per cent.</hi> is paid for Interest, the people are poor, and despicable, their persons ill cloathed, their houses worse provided, and Money intolerably scarce, notwithstanding they have great plenty of all provisions; nor will their Land yeild above eight or ten years purchase at most. In <hi>France</hi> where Money is at s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven <hi>per cent.</hi> their Lands will yeild about eighteen yeers purchase; And the Gentry who may poss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss Lands, live in good condition, though the Peasants are little better then Slaves, because they can possess nothing but at the will of others. In <hi>Italy</hi> Money will not yeild above three <hi>per cent.</hi> to be let out upon real security; there the people are rich, full of Trade, well attired, and their Lands will sell at thirty five to forty years purchase; and that it is so, or better with them in <hi>Holland,</hi> is too manifest. In <hi>Spain</hi> their usual Interest is ten
+<pb n="35" facs="tcp:199386:19"/> and twelve <hi>per cent.</hi> and there, notwitstanding they have the only Trade in the World for Gold and Silver, Money is no where more scarce, the people poor, despicable, and void of Commerce, other then such as <hi>English, Dutch, Italians, Jews,</hi> and other Forreigners bring to them; who are to them in effect, but as Leeches, who suck their Blood and vital Spirits from them. I might urge many other instances of this nature, nor only out of Christen<g ref="char:EOLhyphen"/>dom, but from the <hi>Turks</hi> Dominions, <hi>East-India,</hi> and <hi>America:</hi> but every man by his experience in Forreign Countreys, may easily inform himself whether this rule do vniversally hold true or not. For my own part, to satisfie my own curiosity, I have for s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me years, as occasion offer'd, diligently enquired of all my Acquaintance that had know<g ref="char:EOLhyphen"/>ledge of Forreign Countreys, and I can truly say, that I never found it to fail in any particular in<g ref="char:EOLhyphen"/>stance.</p>
+            <p>
+               <hi>Exam. XXIV.</hi>
+            </p>
+            <p>If it be admitted, which I shall ra<g ref="char:EOLhyphen"/>ther agree then travel to disprove, That interest for Money in <hi>Scotland, Ireland,</hi> and <hi>Spain,</hi> is at ten or twelve <hi>per cent.</hi> in <hi>France</hi> at seven, and in <hi>Italy</hi> at three, as my Author affirms; and that these Countreys are poor and rich according to the proportions of interest payd a<g ref="char:EOLhyphen"/>mongst them; yet he is grosly mistaken
+<pb n="36" facs="tcp:199386:20"/> in the cause; for it is not because Mo<g ref="char:EOLhyphen"/>ney is at ten or twelve <hi>per cent.</hi> in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> that the Nation is poor, but be<g ref="char:EOLhyphen"/>cause the Nation is poor, therefore is it there at that rate. And if they should hereafter fall into a course of Trade and Industry whereby they shall accu<g ref="char:EOLhyphen"/>mulate Wealth, plenty of Money will it self reduce the interest thereof without a Law. But in the interim, if <hi>Scotland</hi> were convinc'd that a Law to reduce Interest amongst them from ten or twelve to three <hi>per cent.</hi> would make them as rich as <hi>Italy,</hi> I believe it would not be the last work they would do.</p>
+            <p>To omit <hi>France,</hi> (although doubt<g ref="char:EOLhyphen"/>less the <hi>French</hi> Nation set as great a va<g ref="char:EOLhyphen"/>lue on themselves, as the proudest of their Neighbours) the contrary may be said for <hi>Italy,</hi> that it is not inricht by reason of the lowness of Interest there; but because it is a rich Country, there<g ref="char:EOLhyphen"/>fore is interest there at a low rate. So it is not a National Law that can sub<g ref="char:EOLhyphen"/>stantiate the people by falling of Inte<g ref="char:EOLhyphen"/>rest, but the Law of prosperity.</p>
+            <p>As to <hi>Holland,</hi> It is no wonder that Lands there bear a good value, if we
+<pb n="37" facs="tcp:199386:20"/> consider the Wealth of the people, and parvity of their Territories; but to at<g ref="char:EOLhyphen"/>tribute this to the depression of Loan, is to attribute the cause to the effect, or fire to smoak.</p>
+            <p>
+               <label>Paragr. XXV.</label> Now if upon what hath been said, it be grant<g ref="char:EOLhyphen"/>ed that <hi>de facto</hi> this Kingdom be richer at least four-fold (I might say, eight-fold) then it was before any Law for interest was made, and that all Countreys are at this day richer or poorer in an exact proportion to what they pay, and have usual<g ref="char:EOLhyphen"/>ly payd for the interest of Money; it remains that we enquire carefully, whether the abatement of In<g ref="char:EOLhyphen"/>terest be in truth the cause of the riches of any Country, or only the concomitant or effect of the riches of a Country; in which seems to lie the intricacy of this Question. To satisfie my self wherein, I have taken all opportunities to discourse this point with the most ingenious men I had the honour to be known to, and have searcht for, and read all the Books that I could ever hear were printed against the abatement of interest, and se<g ref="char:EOLhyphen"/>riously considered all the Arguments and Objecti<g ref="char:EOLhyphen"/>ons used by them against it; all which have ten<g ref="char:EOLhyphen"/>ded to confirm me in this Opinion, which I humbly offer to the consideration of wiser heads, <hi>viz. That the abatement of Interest is the cause of the Prosperity and Riches of any Nation, and
+<pb n="38" facs="tcp:199386:21"/> that the bringing down of Interest in this Kingdom from six to four, or three</hi> per cent. <hi>will necessarily in less then twenty years time double the Capital stock of the Nation.</hi>
+            </p>
+            <p>
+               <hi>Exam. XXV.</hi>
+            </p>
+            <p>
+               <hi>It be granted, &amp;c.</hi> Admitting here what my Author expects to be granted, <hi>That this Kingdom is eight-fold richer then it was before any Law for Interest was made:</hi> yet that does not answer the Question, that it is inricht by reason or cause of the abatement of Interest. For notwithstanding any thing my Author hath materially said to the contrary, this Kingdome might have been as pros<g ref="char:EOLhyphen"/>perous, had no Law at all concerning Interest been made. And as to that, <hi>That all Countreys are richer or poorer, according to the rate of Interest they pay for Money,</hi> declares more the real pros<g ref="char:EOLhyphen"/>perity or necessity of these Countreys, then the Policy: for a poor one can be inricht by no Laws, but those of Indu<g ref="char:EOLhyphen"/>stry and Providence.</p>
+            <p>
+               <hi>Whether the abatement of Interest,</hi> &amp;c. Here the Ship of my Authors Position, <hi>aura secunda carens,</hi> is driven upon the
+<pb n="39" facs="tcp:199386:21"/> rock of his Question, where she sticks fast; and because he himself knows not how to get her off, he offers it to the consideration of wiser heads; but the waves of his Objections fall in, and to<g ref="char:EOLhyphen"/>tally split her.</p>
+            <p>
+               <label>Paragr. XXVI.</label> The most material Objections I have met with against it, a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as follows: <hi>Object. 1. To abate interest w l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cause the</hi> Dutch <hi>and other people that have Money put out at interest in</hi> En<g ref="char:EOLhyphen"/>gland, <hi>by their Friends and Factors to call home their Estates, and consequently will oc<g ref="char:EOLhyphen"/>casion a great scarcity and want of Money a<g ref="char:EOLhyphen"/>mongst it.</hi> To this I answer, That if Interest be broug<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t to four <hi>per cent.</hi> no <hi>Dutchman</hi> will call in his M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ney that is out upon good security in <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gland,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecause h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cann<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t make above three <hi>per c<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> of it u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> interest at ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. But if they should call home all th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Money they have with us at inte<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t, it w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld be better for us, then if they did it not; for the B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrower is always a slave to the Len<g ref="char:EOLhyphen"/>der, and shall be sure t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be always kept po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, while the other is fat and full: he that useth a stock that is none of his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn, being forced for the up<g ref="char:EOLhyphen"/>holding his reputation to live to the full, if not a<g ref="char:EOLhyphen"/>bove the proportion of what he doth so use, while the Lender poss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssing much, and using little or none, lives on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y at the charge of what he useth, and not
+<pb n="40" facs="tcp:199386:22"/> of what he hath. Besides, if with this Law for a<g ref="char:EOLhyphen"/>batement of Interest, a Law for transferring Bills of Debt should pass, we should not miss the <hi>Dutch</hi> Money, were it ten times as much as it is amongst us; for that such a Law will certainly supply the defict of at least one half of all the ready Money we have in use in the Nation.</p>
+            <p>
+               <hi>Exam. XXVI.</hi>
+            </p>
+            <p>
+               <hi>To abate Interest,</hi> &amp;c. To do my Author right, This is a material Ob<g ref="char:EOLhyphen"/>jection, and I am convinc't that the <hi>Dutch</hi> have considerable quantities of Money at Interest in <hi>England.</hi> And I am as well satisfied, that if Loan should be abated from fix to four <hi>per cent,</hi> they will draw away all their Money hence, notwithstanding his Reasons to the con<g ref="char:EOLhyphen"/>trary; for they will rather lend their Money at home, at three <hi>per cent.</hi> upon security they know, then abroad at four <hi>per cent</hi> upon security they know not, but must take upon credit of their Factors. And if this Law amongst us should pass, it might open such a Vein in the body Politick of Trade, that the issue flowing thence would never admit stoppage until Expiration. For
+<pb n="41" facs="tcp:199386:22"/>
+'tis not only the <hi>Dutch</hi> Money will be drawn away, but (as we may reason<g ref="char:EOLhyphen"/>ably fear) the English Money also. And although we have already twice stoopt the Cask of our Treasure without pro<g ref="char:EOLhyphen"/>duction of Dregs, yet let us beware the third time, lest it become less grateful unto us.</p>
+            <p>
+               <hi>No Dutchman will call in's Mo<g ref="char:EOLhyphen"/>ney,</hi> &amp;c. Here, how to reconcile my Author in's conclusion <hi>(viz.)</hi> that the <hi>Dutch</hi> Money (as is admitted by his reasoning) may be of advantage to us, to continue it in <hi>England;</hi> and yet, it will be better for us, if they draw it away; that is, we are in a good condi<g ref="char:EOLhyphen"/>tion if we have much Money, but in a better, if we have little; I am wholly at a loss, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Law for Transferring Bills,</hi> &amp;c. The reasons and circumstances why and how this Law would procure a return of the <hi>Dutch</hi> Money once drawn away, my Author would have done well to have given.</p>
+            <p>
+               <label>Paragr. XXVII.</label>
+               <hi>Object. 2. If Interest be abated, Land must <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ise in purchrse, and consequently Rents;
+<pb n="42" facs="tcp:199386:23"/> and if Rents, then the Fruits of the Land, and so all things will be dear: And how shall the Poor live?</hi> &amp;c. <hi>Answer,</hi> To this I say, If it follow that the Fruits of our Land, in conse<g ref="char:EOLhyphen"/>quence of such a Law f r Abatement of Interest, grow generally dear, it is an evident Demonstra<g ref="char:EOLhyphen"/>tion that our people grow richer; for generally, wherever Provisions are for continuance of years dear in any Country, the people are rich; and where they are most cheap throughout the World, for the most part the pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ple are very poor. And for our own poor in <hi>Engl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> it is observed, that they live better in the dearest Countries for Pro<g ref="char:EOLhyphen"/>visions, than in the cheapest; and better in a dear year, than in a cheap (especially in relation to the Publick good) for that in a cheap year, they will not work above two dayes in a week; their humour being such, that they will not provide for a hard time; but just work so much and no more, as may maintain them in that mean condition to which they have been accustomed.</p>
+            <p>
+               <hi>Exam. XXVII.</hi>
+            </p>
+            <p>This Objection is but a Question beg'd: For where Interest is abated by a Law, it does not therefore follow that Lands must rise, and so Rents. For 'tis within memory, that when Money was at 8 <hi>per cent,</hi> Rents were better paid then now they are, and Lands at a bet<g ref="char:EOLhyphen"/>ter
+<pb n="43" facs="tcp:199386:23"/> rate. And I am of opinion, if it were now reduc't to four, that Te<g ref="char:EOLhyphen"/>nants would give no greater Rent for their Farms (if so much) then now they do, nor Purchases value.</p>
+            <p>
+               <label>Paragr. XXVIII.</label> O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ject. <hi>3. If Interest be abated, Usurers will call in their Money, so what shall Gentle<g ref="char:EOLhyphen"/>men do, whose Estates are Mortgaged?</hi> &amp;c. <hi>Answ.</hi> In answer, That when they know they can make no more of their Money by taking out of one, and putting it in another hand, they will not be so forward as they threaten, to alt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r that security <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hey know is good, for another that may be bad: Or if they should do it, our Laws are not so se<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ere, but that Gentlemen may take time to dispose <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f part of their Land; which immediately after <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uch a Law will yield them thirty years purchase <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t least; and much better it is for them so to do, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>han to abide longer under that consuming plague <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f Ʋsury, which hath insensibly destroyed very many of the best Families in <hi>England,</hi> as well of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ur Nobility as Gentry.</p>
+            <p>
+               <hi>Exam. XXVIII.</hi>
+            </p>
+            <p>There is much more reason in this Objection, then in the Answer: For, if Usurers, as my Author terms them,
+<pb n="44" facs="tcp:199386:24"/> (though Borrowers may more properly be called so, then Lenders) should call in their Debts, (as they did about the year 1651, when Money was first brought from eight <hi>per cent.</hi> to six, and kept it prisoner more then 12 moneths before they would allow it liberty:) let us see what inconveniencies would fol<g ref="char:EOLhyphen"/>low:</p>
+            <p>First, It must lessen the stock of the Nation; and by a regular inference, when our stock is small, our gains can<g ref="char:EOLhyphen"/>not be great.</p>
+            <p>Secondly, it must incommode divers particular men, who are aswel behold<g ref="char:EOLhyphen"/>ing to credit, as their own Estates to manage Trade, by putting them upon extream supplies.</p>
+            <p>Thirdly, It must dangerously injure, if not ruine those young men who total<g ref="char:EOLhyphen"/>ly build their fortunes upon the credit of their Friends; and of this sort (whom by example, incouragements, make the best Commonwealths-men) are not a few.</p>
+            <p>Fourthly, It will put Lenders of Mo<g ref="char:EOLhyphen"/>ney, after the practice of the <hi>Dutch,</hi> up<g ref="char:EOLhyphen"/>on a course of remitting it to those
+<pb n="45" facs="tcp:199386:24"/> Countreys where the increase thereof <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay afford them a competent mainte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ance.</p>
+            <p>Fifthly, It will compel Gentlemen to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>reserve their reputation, by preven<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing Seisures of their Mortgag'd Lands, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o make sale of them at the Lenders <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ate.</p>
+            <p>Sixthly, It will impalluate the com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lexion of all affairs; for as Trade ani<g ref="char:EOLhyphen"/>mates a Nation, so Money animates Trade; which once drawn out, or per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erted from its accustomed Channel, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat Body must needs be sick, if not <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nto death.</p>
+            <p>As to my Authors Reasons, if we draw Conclusions from present experi<g ref="char:EOLhyphen"/>ence, we find that in many Countreys, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat Land which when Money was at <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ight <hi>per cent.</hi> would have sold for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>wenty years purchase, will not now <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eild sixteen; and to charge this upon <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he score of Loan, unless it be, that it is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o low, we should injure it, and our own <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>udgments; and a scarcity of Provisi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ions, <hi>&amp;c.</hi> which may too soon hap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en <hi>(nisi Fata praevertunt)</hi> will unde<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eive us.</p>
+            <pb n="46" facs="tcp:199386:25"/>
+            <p>
+               <hi>Ʋsury hath in sensibly destroy'd,</hi> &amp;c. That any are undone by Usury, is not the fault of the Usurer, but of them<g ref="char:EOLhyphen"/>selves: First, by reason of their pro<g ref="char:EOLhyphen"/>fuseness that brings them into Debt. And secondly, their slothfulness that continues them in it. For he who bor<g ref="char:EOLhyphen"/>rows 100 <hi>l.</hi> at six <hi>per cent. per ann.</hi> in my judgment, husbands it ill, if he makes not twelve: and if so, the Debt is not a charge, but a benefit unto him. And for those persons whose only care is how to get into Debt, without taking any thought of getting out again, if Money were lent them <hi>gratis,</hi> it would but the sooner undoe them.</p>
+            <p>
+               <label>Paragr. XXIX.</label>
+               <hi>Object. 4. As Interest is now at six</hi> per cent. <hi>the Kings Majesty upon any emergency can hardly be supply'd; and if it should be reduc'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to four</hi> per cent. <hi>how shall the King find a con<g ref="char:EOLhyphen"/>siderable sum of Money to be lent him by hi<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> people? Answ.</hi> I answer, the abatement of In<g ref="char:EOLhyphen"/>terest to the people, is the abatement of Interest t<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the King, when he hath occasion to take up Money▪ For what is borrowed of the City of <hi>London,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other bodies Politique, nothing can be demande<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but the Legal Interest; and if the King have occa<g ref="char:EOLhyphen"/>si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n
+<pb n="47" facs="tcp:199386:25"/> to take up Money of private persons, being his Majesty, according to good right, is above the common course of Law, the King must, and al<g ref="char:EOLhyphen"/>ways hath given more then the Legal rate. As for instance: The Legal rate is now six <hi>per cent.</hi> but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is Majesty, or such as have disposed of his Maje<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ties Exch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quer-Tallies, have been said to give ten <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r twelve in some cases; and if the Legal rate <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ere te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, his Majesty might probably give thirteen <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r fourteen: so, if Interest be brought to four <hi>per <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ent.</hi> his Majesty in such cases as he now gives ten, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ust give six or seven; by which his Majesty would <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ave a clear advantage.</p>
+            <p>
+               <hi>Exam. XXIX.</hi>
+            </p>
+            <p>If there be a scarcity of Money a<g ref="char:EOLhyphen"/>mongst the People (as upon passing such <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Law, infallibly there will) the Kings Majestie; as whose concerns are more <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>minent then all others, will be the greatest sharer in the necessity. And what reason is there that the King, whose occasions ought always to be sup<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lied at the best hand being for the pub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ck good, should give more then the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>egal rate for Interest: And so, to the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>shonor of his credit, be put into a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>orse capacity then private persons?
+<pb n="48" facs="tcp:199386:26"/> And it is no good Authority, that be<g ref="char:EOLhyphen"/>cause the King has of late given 10 or 12 <hi>per cent.</hi> he must do it again; but rather, that that abuse be punished. And though no blame therein can or ought to be laid at the door of his Sa<g ref="char:EOLhyphen"/>cred Majestie, according to that anci<g ref="char:EOLhyphen"/>ent Maxime of the English Laws, <hi>Re<g ref="char:EOLhyphen"/>gem non posse facere injuriam;</hi> yet those that took the same ought to be dealt with according to their demerits; not onely as breakers of his Majesties Statutes, but as introducing the pra<g ref="char:EOLhyphen"/>ctice thereof into example.</p>
+            <p>
+               <hi>Such as have disposed of his Majesties Tallies, &amp;c.</hi> This, when it was practis'd, was a crime that wanted a new Law suf<g ref="char:EOLhyphen"/>ficiently to punish the Agents thereof. For these were they that set all things to his Majestie at so dear a rate, to the great consumption of his Treasure. And this their confederacy was so concate<g ref="char:EOLhyphen"/>nated, that they deceived his Majesty with a great deal of ingenuity. For the Receiver of his Majesties dues, <hi>&amp;c.</hi> when he had collected them, instead of paying the Money into the Exchequer, sent it to the Bankers to lie at Interest
+<pb n="49" facs="tcp:199386:26"/> at 6 <hi>per cent.</hi> and so would never be perswaded to comply with his pay<g ref="char:EOLhyphen"/>ments, until Process from the Exche<g ref="char:EOLhyphen"/>quer came against him. Thus his Ma<g ref="char:EOLhyphen"/>jesties Revenue failing, his Tallies could not be paid; the Owners where<g ref="char:EOLhyphen"/>of being Tradesmen, having a necessity for their Money, and no other way to obtain it, apply themselves to these Bankers, and there discompt them at 20 or 30 <hi>per cent.</hi> as their Conscience serv'd. Which these Tradesmen fore<g ref="char:EOLhyphen"/>knowing, furnisht his Majestie with their Goods, <hi>&amp;c.</hi> accordingly. So al<g ref="char:EOLhyphen"/>so when his Majestie himself had oc<g ref="char:EOLhyphen"/>sion for Money, these men commonly supplied him with his own, though upon very hard terms.</p>
+            <p>
+               <label>Paragr. XXX.</label> Object. <hi>5. If Interest be abated, it will be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> great prejudice to Widows and Orphans, who have not knowledge and abilities to im<g ref="char:EOLhyphen"/>prove their Estates otherwise. Answ.</hi> I an<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer, That by our Laws now, Heirs and Orphans <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an recover no Interest from their Parents Exe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utors, except it be left fully and absolutely to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Executors to dispose, and put out Money
+<pb n="50" facs="tcp:199386:27"/> at the discretion of the Executors, for the profit and loss of the Heirs and Orphans: And if it be so left to the Executors discretion, they may im<g ref="char:EOLhyphen"/>prove the Moneys left them in Trade, or purchase of Lands and Leases, as well as by Interest. Or when not, the damage such Heirs and Orphans will sustain in their minority (being but two <hi>per cent.</hi>) is considerable, in respect of the great ad<g ref="char:EOLhyphen"/>vantage will accrew to the Nation in general, by such abatement of Interest. Besides, when such a Law is made and in use, all men will so take care in their life, to provide for, and educate their Children, and instruct their Wives, as that no prejudice can happen thereby; as we see there doth not in <hi>Holland</hi> and <hi>Italy,</hi> and other Places, where Interest is so low.</p>
+            <p>
+               <hi>Exam. XXX.</hi>
+            </p>
+            <p>Widows and Orphans will have but a slender improvement of their Estates, to give thirty years purchase for Lands; and worse, if imploy'd in Trade: for they must manage it by Factors or Ser<g ref="char:EOLhyphen"/>vants; which will give these an oppor<g ref="char:EOLhyphen"/>tunity to be Knaves, and themselves to be undone.</p>
+            <p>
+               <hi>Heirs and Orphans,</hi> &amp;c. My Author here forgets the Adage, <hi>Ne sutor ultra crepidam,</hi> or surely he would not have
+<pb n="51" facs="tcp:199386:27"/> ventur'd on the Law concerning them.</p>
+            <p>The conclusion he draws that all men will instruct their Wives, and Children, <hi>&amp;c.</hi> with what he hath said in the ninth Paragraph, implies his great de<g ref="char:EOLhyphen"/>sires that Women should be Merchants; which with us, admitting them capable, will be as improper, as men to be Hus<g ref="char:EOLhyphen"/>wives.</p>
+            <p>
+               <label>Paragr. XXXI.</label> Having now offered my thoughts in answer to the aforesaid Objections, it will not be amiss, that we enquire who will be advantaged, and who will receive prejudice, in case such a Law be made. First, His Majesty, as hath been said in answer to that Objection, will, when he hath occasion, take up Money on better terms: Besides which, he will receive a great augmentation to his Revenue there<g ref="char:EOLhyphen"/>by. All his Lands being immediately worth, af<g ref="char:EOLhyphen"/>ter the making such a Law, double to what they were before; his Customes will be much encreased by the increase of Trade, which must necessarily ensue, upon the making such a Law.</p>
+            <p>
+               <hi>Exam. XXXI.</hi>
+            </p>
+            <p>Now comes his Use and Application; and first he begins with the benefit the
+<pb n="52" facs="tcp:199386:28"/> King shall receive, 1. <hi>In borrowing Money.</hi> 2. <hi>In Augmentation of Re<g ref="char:EOLhyphen"/>venue:</hi> And therein, 1. Of his Lands. 2. Of his Customes. The direct contra<g ref="char:EOLhyphen"/>ry of all which is true: For,</p>
+            <p>First, When there is but a little Mo<g ref="char:EOLhyphen"/>ney currant in the Nation, the Kings extraordinary supplies must fail.</p>
+            <p>Secondly, The revenue of his Lands must rather decrease, when his Tenants will want Money to pay their Rents.</p>
+            <p>Thirdly, The profits arising by his Customes following the current of Trade, must decline with it.</p>
+            <p>
+               <label>Paragr. XXXII.</label> The Nobility and Gentry, whose Estates lie mostly in Land, may presently upon all they have, instead of Fifty, write one Hundred.</p>
+            <p>
+               <hi>Exam. XXXII.</hi>
+            </p>
+            <p>Or rather, instead of one Hundred, write Fifty.</p>
+            <p>
+               <label>Paragr. XXXIII.</label> The Merchants and Tradesmen, who bear the heat and burthen of the day (most of our Trade
+<pb n="53" facs="tcp:199386:28"/> being carried on by young men, that take up Mo<g ref="char:EOLhyphen"/>ney at Interest) will find their Yoke sit lighter upon their shoulders, and be incourag'd to go on with greater Alacrity in their business.</p>
+            <p>
+               <hi>Exam. XXXIII.</hi>
+            </p>
+            <p>Those Merchants, &amp;c. that Trade with money borrowed upon Loan, will find their credits strictly scrutined. And allowing, which I have no reason to do, that no money be drawn out o'th' Nation; yet they shall never borrow so much as before, no, hardly any, without extraordinary security, which possibly they may not be able to pro<g ref="char:EOLhyphen"/>cure (for those who lend money at a low rate, have alwayes a greater re<g ref="char:EOLhyphen"/>gard to its safety.) Whereas on the other side, if money were at 7 or 8 <hi>per cent.</hi> they could never want what their occasions required, and that upon in<g ref="char:EOLhyphen"/>different Pledges. The Usurer deal<g ref="char:EOLhyphen"/>ing herein somewhat like the Insurer, who will as willingly subscribe a Policy for 8 <hi>per cent.</hi> on a Ship that may be in some danger, as on one he deems in more safety for four. Or like the Mer<g ref="char:EOLhyphen"/>chant himself, who will trust a Trades<g ref="char:EOLhyphen"/>man
+<pb n="54" facs="tcp:199386:29"/> with an hundred pounds worth of goods, by which he shall get twelve <hi>per cent.</hi> when he will not trust the same man with an hundred pounds in mo<g ref="char:EOLhyphen"/>ney, by which he can get but six.</p>
+            <p>
+               <label>Paragr. XXXIV.</label> Our Marriners, Ship-wrights, Porters, Clo<g ref="char:EOLhyphen"/>thiers, Packers, and all sorts of labouring people that depend on Trade, will be more constantly and fully imploy'd.</p>
+            <p>
+               <hi>Exam. XXXIV.</hi>
+            </p>
+            <p>Or rather, have little or no imploy<g ref="char:EOLhyphen"/>ment at all.</p>
+            <p>
+               <label>Paragr. XXXV.</label> Our Farmers sell the Product of their Lands at better Rates.</p>
+            <p>
+               <hi>Exam. XXXV.</hi>
+            </p>
+            <p>I verily believe, a Law that will pro<g ref="char:EOLhyphen"/>cure the Farmers good rates for their Corn and Cattle, will not be unwel<g ref="char:EOLhyphen"/>come unto them: <hi>Plebs enim stupidi ve<g ref="char:EOLhyphen"/>nerantur opes.</hi> But this conclusion is a
+<pb n="55" facs="tcp:199386:29"/> little wide of the premises; for the scope of this Discourse concerning Lands, is more in value of the Purchase, then of the yearly profits.</p>
+            <p>
+               <label>Paragr. XXXVI.</label> And whereas our Neighbours the <hi>Netherlan<g ref="char:EOLhyphen"/>ders</hi> (who in regard of the largeness of their stocks and experiences, the sons continually succeeding the Fathers in Trade to many Generations, we may not unfitly in this case, term sons of <hi>Anak,</hi> and men of renown) against whom, we fight Dwarfs and Pigmies in stocks and experience, be<g ref="char:EOLhyphen"/>ing younger Brothers of Gentlemen, that seldome have above one thousand pounds, sometimes not two hundred to begin the world with. Instead, I say, of such young men and small Stocks, if this Law pass, we shall bring forth our <hi>Samsons</hi> and <hi>Goliahs</hi> in stocks, subtilty, and experience in Trade, to coap with our potent Adversaries on the other side; there being to every mans kn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wledge that understands the Exchange of <hi>London,</hi> di<g ref="char:EOLhyphen"/>vers <hi>English</hi> Merchants of large Estates, which have not much past their middle age, and yet have wholly left off their Trades, having found the sweetness of Interest; which if that should abate, must again set their hands to the Plow (which they are as able to hold and govern now as ever) and also will ingage them to train up their sons in the same way, because it will not be so easie to make
+<pb n="56" facs="tcp:199386:30"/> them Country-Gentlemen as now it is, when Lands sell at thirty or forty years purchase.</p>
+            <p>
+               <hi>Exam. XXXVI.</hi>
+            </p>
+            <p>
+               <hi>Being younger sons of Gentlemen,</hi> &amp;c. My Author here, by's commendation of the succession of Merchants in <hi>Holland,</hi> whose Apes by all means he will have us, would excite the elder sons of Gen<g ref="char:EOLhyphen"/>tlemen to become Mercatural; for he seems not well pleas'd with the youn<g ref="char:EOLhyphen"/>ger, so to beat their Swords into Pen-knives, and their Plow-shares into Pru<g ref="char:EOLhyphen"/>ning hooks. And much reason indeed he has, when he would have the Wo<g ref="char:EOLhyphen"/>men so also.</p>
+            <p>
+               <hi>Bring forth our</hi> Samsons <hi>and</hi> Goliahs <hi>in stock,</hi> &amp;c. This is a supernatural no<g ref="char:EOLhyphen"/>tion, and if true, a vertue in Reduction never before discover'd.</p>
+            <p>
+               <label>Paragr. XXXVII.</label> For the Sufferers by such a Law, I know none, but idle Persons that lives at as little expence as labour, neither scattering by their expences, so as the poor may glean any thing after them, nor working with their hands or heads to bring either Wax or Honey to the common hive of the
+<pb n="57" facs="tcp:199386:30"/> Kingdom, but swelling their own Pursers by the sweat of other mens brows, and the contrivances of other mens brains. And how unprofitable it is for any Nation to suffer idleness to suck the breasts of industry, needs no demonstration. And if it be granted me, that these will be the effects of an a<g ref="char:EOLhyphen"/>batement of Interest, then I think it is out of doubt, that the abatement of Interest doth tend to the en<g ref="char:EOLhyphen"/>riching of a Nation, and consequently hath been one great cause of the Riches of the <hi>Dutch</hi> and <hi>I<g ref="char:EOLhyphen"/>talians,</hi> and the encrease of the Riches of our Kingdom in these last fifty years.</p>
+            <p>
+               <hi>Exam. XXXVII.</hi>
+            </p>
+            <p>This Law, according to my Authors own Argument in the 27 <hi>Paragraph,</hi> will rather beget Idleness, then prevent it: for what Tradesman that is low-rented to the Usurer, will be so sedulous in his Calling, by taking great pains to pro<g ref="char:EOLhyphen"/>cure that which he may do with less? But he chiefly condemns those who gain by the contrivances of other mens brains; though good reason there is for't, when they hazard their Estates in the adven<g ref="char:EOLhyphen"/>ture.</p>
+            <p>
+               <hi>These will be the effects of an abate<g ref="char:EOLhyphen"/>ment,</hi> &amp;c. The Reasons hereof my Au<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hor fails to deliver: but here (as in other
+<pb n="58" facs="tcp:199386:31"/> places) leaps from his premises to his conclusion, excluding totally the <hi>me<g ref="char:EOLhyphen"/>diis terminis,</hi> that should couple the parts of his Argument. For only to say, That to reduce Money to four <hi>per cent.</hi> will double the Merchants stocks, and raise Land to thirty or forty years pur<g ref="char:EOLhyphen"/>chase, <hi>&amp;c.</hi> and shew not how, or by what means, is, as my Author hath done, to say nothing.</p>
+            <p>
+               <hi>One great cause of the Riches,</hi> &amp;c. If my Author had said, that Riches had been a great cause of the Reduction of Money, he had said true.</p>
+            <p>
+               <label>Paragr. XXXVIII.</label> Another Argument, to prove which, we may draw from the nature of Interest it self, which is of so prodigious a multiplying nature, that it must of necessity make the Lenders monstrous rich, (if they live at any moderate expence) and the bor<g ref="char:EOLhyphen"/>rowers extream poor. A memorable instance where<g ref="char:EOLhyphen"/>of we have in Old <hi>Audly</hi> deceased, who did wise<g ref="char:EOLhyphen"/>ly observe, that one hundred pounds only, put out at interest at ten <hi>per cent.</hi> doth in seventy years (which is but the age of a man) increase to above one hundred thousand pounds: and if the advan<g ref="char:EOLhyphen"/>tage be so great to the Lender, the loss must be greater to the Borrower, who (as hath been said)
+<pb n="59" facs="tcp:199386:31"/> lives at a much larger expence. And as it is be<g ref="char:EOLhyphen"/>tween private persons, so between Nation and Na<g ref="char:EOLhyphen"/>tion that have communication one with another. For whether the Subjects of one Nation lend Mo<g ref="char:EOLhyphen"/>ney to Subjects of another, or Trade with them for Goods, the effect is the same. As for Example: A <hi>Dutch</hi> Merchant that hath but four or five thou<g ref="char:EOLhyphen"/>sand pounds clear stock of his own, can easily borrow and have credit for fifteen thousand pounds more at three <hi>per cent.</hi> at home, with which, whe<g ref="char:EOLhyphen"/>ther he trade, or put to use in <hi>England,</hi> or any Country where Interest of Money is high, he must necessarily, without very evil accident attend him, in a very few years treble his own Capital.</p>
+            <p>This discovers the true cause why the Sugar-bakers of <hi>Holland</hi> can afford to give a greater price for <hi>Barbadoes</hi> Sugars in <hi>London,</hi> besides the second Freight and charges upon them between <hi>England</hi> and <hi>Holland,</hi> and yet grow exceeding rich upon their Trade. Wheras our Sugar-bakers in <hi>London,</hi> that buy their Sugars here at their own doors, before such additional Freight and Char<g ref="char:EOLhyphen"/>ges come upon them, can scarce live upon their Cal<g ref="char:EOLhyphen"/>lings, ours here paying for a good share of their stocks six <hi>per cent.</hi> and few of them imploy in their Sugar-works above six to ten thousand pounds at most: whereas in <hi>Holland</hi> they employ twenty, thirty, to fouty thousand pounds stock in a Sugar-house, paying out three <hi>per cent.</hi> at most for what they take up at Interest, to fill up their said stocks, which is sometimes half, sometimes three quarters of their whole stocks. And as it is with this Trade,
+<pb n="60" facs="tcp:199386:32"/> the same rule holds throughout all other Trades whatsoever. And for us to say, if the <hi>Dutch</hi> put their Money to Interest among us, we shall have the ad<g ref="char:EOLhyphen"/>vantage by being full and flush of Coyn at home, it is a meer <hi>Chymera,</hi> and so far from advantage, that it is an extream loss, rendring us only in the condition of a young Gallant, that hath newly Mortgaged his land, and with the Money thereby raised, stuffs his Pockets, and looks big for a time, not considering that the draught of Cordial he hath received, though it be at present grateful to his palate, doth indeed prey upon his vital spirits, and will in a short time render the whole body of his Estate in a deep consumption, if not wholly consumed. Besides, whatever Mo<g ref="char:EOLhyphen"/>ney the <hi>Dutch</hi> lends us, they alwayes keep one end of the Chain at home in their own hands; by which they can pull back when they please their lean Kine, which they s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd hither to be fatted.</p>
+            <p>
+               <hi>Exam. XXXVIII.</hi>
+            </p>
+            <p>If we have the <hi>Dutch</hi> money, we have their Tools to work with; and if we pay them well for their use, we are as well paid by their advantage: For he who makes as much more Inte<g ref="char:EOLhyphen"/>rest of 1000 <hi>l.</hi> in Trade as he pays, which every man that is prudent may, will thereby equal the gains of the Lender; and for the 60 <hi>l. per ann.</hi> he
+<pb n="61" facs="tcp:199386:32"/> parts with, procures 60 <hi>l.</hi> more to him<g ref="char:EOLhyphen"/>self; which he could never do, were there either no money to be lent him, or no persons to give him credit.</p>
+            <p>
+               <hi>Why the Sugar-Bakers of</hi> Holland, <hi>can give a greater price,</hi> &amp;c. Admit<g ref="char:EOLhyphen"/>ting this, that my Author affirms, the rea<g ref="char:EOLhyphen"/>son is evident in it self; for he that can imploy 40000 <hi>l.</hi> in stock, shall gain more then he that can imploy but ten, though he buys his Commodities at a dearer rate. Besides, the <hi>Dutch</hi> may possibly have a market for those Goods abroad, that may retribute the charge, which we in <hi>England</hi> have not. But by his fa<g ref="char:EOLhyphen"/>vour, I think, it is a mistake, that the Sugar-Bakers with us, can hardly live upon their Callings; for most of them have acquired good Estates.</p>
+            <p>
+               <hi>The same Rule holds,</hi> &amp;c. This is no farther true, then that one Merchant thrives better on a great Trade, then another of the same kind upon a less.</p>
+            <p>
+               <hi>In the condition of a young Gallant,</hi> &amp;c. And whether is it not less mis<g ref="char:EOLhyphen"/>chievous for a young Gallant to mort<g ref="char:EOLhyphen"/>gage his Land, then sell it out-right and spend the money, and so leave him<g ref="char:EOLhyphen"/>self
+<pb n="62" facs="tcp:199386:33"/> without advantage of being re<g ref="char:EOLhyphen"/>stated, when the sence of his past Va<g ref="char:EOLhyphen"/>nities shall retrive him?</p>
+            <p>
+               <label>Paragr. XXXIX.</label> This makes me conclude, that <hi>Moses</hi> (that wise Legislator) in his forbidding the <hi>Jews</hi> to lend Money at use, one to another, and permitting them to lend their Money to strangers; ordained that Law as much to a Political, as a Religious intent, knowing that by the latter, they should inrich their own Nation, and by the former no publick good could insue; the consequence being onely to Impoverish one <hi>Jew,</hi> to make another rich.</p>
+            <p>
+               <hi>Exam. XXXIX.</hi>
+            </p>
+            <p>If <hi>Moses</hi> had intended we should have known the reason why the <hi>Jews, Deut.</hi> 23. might not lend upon Usury to their Brethren, but to Strangers; in humane probability, he would have gi<g ref="char:EOLhyphen"/>ven it us. But since he has not so thought fit, we have the less warrant to enquire it. But I conceive, without injury to the Text, this may from thence be con<g ref="char:EOLhyphen"/>cluded, <hi>viz.</hi> that Usury is lawful, otherwise it had not been permitted
+<pb n="63" facs="tcp:199386:33"/> and good, otherwise God had not al<g ref="char:EOLhyphen"/>lowed it: And if so, the more it is pra<g ref="char:EOLhyphen"/>ctis'd, the more beneficial it is, accord<g ref="char:EOLhyphen"/>ing to that ancient Axiome of Philoso<g ref="char:EOLhyphen"/>phy, <hi>Omne bonum quo communius eo me<g ref="char:EOLhyphen"/>lius.</hi> But my Author in several parts of his Discourse seems more offended with the person of the Usurer, then the thing of Usury; though the difference be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>wixt a Gentleman and him is only in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ppellation, the one receiving the pro<g ref="char:EOLhyphen"/>fits of his Land, the other (as justly) of his Money. And how profitable a Mem<g ref="char:EOLhyphen"/>ber he is of the Commonwealth, the advantages flowing from him, by the credit he dispenses, sufficiently demon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>trate. For as credit is the sinew of con<g ref="char:EOLhyphen"/>versation, and nourisher of correspon<g ref="char:EOLhyphen"/>dency, the great manager of affairs: So <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s the Usurer the <hi>causa emanativa</hi> of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>his Credit, <hi>Argenteum sudorem ema<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ans;</hi> which this Law of four <hi>per cent.</hi> must needs destroy. As for example: Admit an Usurer has 1000 l. which he designs to be disposed at Interest for the benefit of younger Children, or his own <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ubsistence; this he lends at six <hi>per cent.</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o ten young men to imploy in Trade;
+<pb n="64" facs="tcp:199386:34"/> imitating therein the noble Usurer in the 19 of St. <hi>Luke,</hi> in the distribution of his Talents, (without which credit, these men having small or no fortunes of their own, must sit still, or turn Journymen or Factors, and so spend their <hi>Juvenilia</hi> in the service of others, to their great discouragement) And this money they so well manage, that in few fears they are able both to dis<g ref="char:EOLhyphen"/>charge their Ingagements, and conti<g ref="char:EOLhyphen"/>nue Trade upon their own Estates: This inriches them, and restocks the lender to supply the like occasions. Whereas if this projected Law pass, it will put the Lender upon calling in this 1000 <hi>l.</hi> (and hoarding it up for a better opportunity, or else imploying it some other way of as little benefit to the Na<g ref="char:EOLhyphen"/>tion) to the detriment, if not destru<g ref="char:EOLhyphen"/>ction, not onely of the present Deb<g ref="char:EOLhyphen"/>tors, but the like beginners. And I dare affirm that many private Trea<g ref="char:EOLhyphen"/>suries made upon the first reduction of mony from 8 <hi>per cent.</hi> to 6, have not since been opened. But again, on the contrary, if instead of reducing the loan of money, it were raised to 7 or 8 <hi>per
+<pb n="65" facs="tcp:199386:34"/> cent.</hi> the Utility thereof to the publick would far transcend the disadvantages (if any) to private persons. For,</p>
+            <p>
+               <hi>First,</hi> It would replenish the Nation with Coyn, not onely the Cities and Towns, but the Countries, which (of late) have lost their acquaintance therewith; every man then supplying the offices of his place with meaner metals.</p>
+            <p>Secondly, It would multiply the num<g ref="char:EOLhyphen"/>ber of publick Traders, who when they have stockt the Markets of the known World, will be sollicitous in the dis<g ref="char:EOLhyphen"/>covery of the unknown; and by this means, we shall beat the <hi>Dutch</hi> with their own weapons.</p>
+            <p>Thirdly, It will give every man cre<g ref="char:EOLhyphen"/>dit in his private Affairs; and those that suffer by it, the blame will be their own: for as an Imprudent man will ne<g ref="char:EOLhyphen"/>ver gain by mony at 4 <hi>per cent.</hi> so a Prudent one will not lose by it at eight, in case his fortune in this plenty should not procure it him at a cheaper rate.</p>
+            <pb n="66" facs="tcp:199386:35"/>
+            <p>
+               <label>Paragr. XL.</label> This likewise takes off the wonder how the peo<g ref="char:EOLhyphen"/>ple of <hi>Israel</hi> out of so small a Territory as they possessed, could upon all occasions set forth such vast and numerous Armies (almost incredible) as all Histories, Sacred and Prophane, report they did; which is neither impossible nor strange to any that have well c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nsidered the effects of their Laws concerning Ʋsury, which were suffici<g ref="char:EOLhyphen"/>ent to make any barren Land fruitful, and a fruitful Land an intire Garden; which by con<g ref="char:EOLhyphen"/>sequence would maintain ten times the number of Inhabitants that the same Tract of Land would do, where no such Laws were.</p>
+            <p>
+               <hi>Exam. XL.</hi>
+            </p>
+            <p>The Land of <hi>Canaan, Maturiis ri<g ref="char:EOLhyphen"/>gata pluviis,</hi> watered with the showrs of Gods blessing, abounded with a numerous people, and brought forth sustenance sufficient to support them; but that a low rate of Usury should be cause of the Generation of the one, or Fertility of the other, is <hi>argumen<g ref="char:EOLhyphen"/>tum remotum,</hi> and exceeds my com<g ref="char:EOLhyphen"/>prehension. <hi>England</hi> is a Field, <hi>Qui plenam profert largo cum foenore mes<g ref="char:EOLhyphen"/>sem;</hi>
+               <pb n="67" facs="tcp:199386:35"/> but should this be ascrib'd to the Laws concerning Loan, it were <hi>face<g ref="char:EOLhyphen"/>re Sacra inferis,</hi> to rob God of his Glory.</p>
+            <p>
+               <label>Paragr. XLI.</label> To conclude, It is (I think) agreed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n by all, that Merchants, Artificers, Farmers of lands, and such as depend on them (which for brevity-sake, we may here include under one of these general terms) <hi>viz.</hi> Seamen, Fishermen, Breeders of Cattle, Gardners, <hi>&amp;c.</hi> are the three sorts of people, which by their study and labour, do principally, if not onely bring in wealth to a Nation from abroad; other kinds of People, <hi>viz.</hi> Nobility, Gentry, Lawyers, Physitians, Scholars of all sorts, and Shop-keepers, do onely hand it from one to another at home. And if Abatement of Interest (besides the general benefit it brings to all, except the griping dronish Ʋsurer) will add new life and motion to those most profitable Engins of the Kingdom, as (I humbly suppose) will be manifest upon serious consideration of what hath been said; then I think it will be out of doubt, that Abatement of Interest is the cause of Increase of the Trade and Riches of any Kingdom.</p>
+            <pb n="68" facs="tcp:199386:36"/>
+            <p>
+               <hi>Exam. XLI.</hi>
+            </p>
+            <p>'Tis a Paradox to me, that a great Trade should be driven with the small incouragement of a little Stock: for if the Rate of Loan be low, it certainly follows that the less Money will be that way dispos'd, as it is among Merchants who deal by Exchange; which must cause the Industrious low-fortun'd young man, <hi>necessitatis ineluctabile te<g ref="char:EOLhyphen"/>lum recipere,</hi> and cut the Cables of his aspiring hopes.</p>
+            <p>
+               <hi>Griping dronish Ʋsurers,</hi> &amp;c. As the Heart in the body Natural issues forth that blood with which it is replenisht, through the Veins of the Flesh, to the benefit and prosperity thereof; so doth the Usurer in the body Politick, his Money through the channels of Com<g ref="char:EOLhyphen"/>merce. And if Nature prompts us to take the greatest care of the one, Interest directs us how to value the other, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not in respect to him, yet in regard to our selves. For if we considerately weigh the effects of a Law of 4 <hi>per cent</hi> we may find that loss intended th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="69" facs="tcp:199386:36"/> Usurer, to fall upon us. For why is it not with Money, as with Land? if that Farm which now yields 300 <hi>l. per annum,</hi> should be by a Law reduc'd to two, will not the Owner rather then let it, manure it himself? So if the Usurer should do with his Money, he would in gross all the advantages thereof to himself, whereas now he com<g ref="char:EOLhyphen"/>municates the profits of his Estate with others.</p>
+            <p>
+               <hi>Exam. XLII.</hi>
+            </p>
+            <p>The foregoing Discourse, I wrote in the Sick<g ref="char:EOLhyphen"/>ness-Summer at my Country-Habitation, not then intending to publish it, but onely to communicate ii to s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me Honourable and Ingenious Friends of the present Parliament, who were pleased to take Copies of it for their more deliberate considera<g ref="char:EOLhyphen"/>tion and digestion of the Principles therein asser<g ref="char:EOLhyphen"/>ted, which at first were strange to them, as I expect they will be to most others, till they have spent some time in thinking of them; after which, I doubt not but all men will be convinced of the truth of them, that have not some private interest of their own against them, external to the general good of the Kingdom. For sure I am, they have a Foundation in Nature, and that according to the excellent Sir <hi>William Petty</hi>'s Observation in
+<pb n="70" facs="tcp:199386:37"/> his late Discourse concerning Taxes, <hi>res nolunt male administrare:</hi> Nature must and will have its course: the matter in <hi>England</hi> is prepared for an abatement of Interest, and it cannot long be ob<g ref="char:EOLhyphen"/>structed. And after the next abatement, who ever lives forty years longer, shall see a second abate<g ref="char:EOLhyphen"/>ment; for we shall never stand on even ground in Trade with the <hi>Dutch,</hi> till Interest be the same with us as it is with them.</p>
+            <p>
+               <hi>Exam. XLII.</hi>
+            </p>
+            <p>
+               <hi>A foundation in Nature,</hi> &amp;c. Al<g ref="char:EOLhyphen"/>though I may grant my Authors Posi<g ref="char:EOLhyphen"/>tions to have a Natural foundation, yet I must deny they have a Political: and how well the matter in <hi>England</hi> is prepared for an abatement of Interest, when the Lady <hi>Pecunia,</hi> the <hi>sine qua non</hi> of all our terreneal Concernments, lies under the extreamity of a fatal Consumption, and without the resto<g ref="char:EOLhyphen"/>rative of a Law <hi>è morte in vitam revo<g ref="char:EOLhyphen"/>care,</hi> to raise her fainting spirits, must needs expire. For what Gentleman now wanting the usual revenue of his Rents, can without much difficulty be trusted with 100 l. for his Houshold-expences? Or what Citizen can borrow the like
+<pb n="71" facs="tcp:199386:37"/> sum to support his drooping Trade? If these be the dire effects of six <hi>per cent.</hi> what will be those of four?</p>
+            <p>
+               <hi>On even ground in Trade,</hi> &amp;c. If our mo<g ref="char:EOLhyphen"/>ny in value exceeded that of our Land, as (in a very great measure) it doth in <hi>Holland;</hi> there is no doubt but the rate thereof would be as low with us as it is with them, and so will be, when we shall be as fortunate. But in the mean time, if we shall be so rash to preposte<g ref="char:EOLhyphen"/>rate our advantages, by forcing that nayl which will not go without danger of a wrent, we may Tinker-like, instead of repairing the defect, make it great<g ref="char:EOLhyphen"/>er. And we have less hopes to be on e<g ref="char:EOLhyphen"/>ven terms with the <hi>Dutch,</hi> when those Instruments by which we should climb, are cut shorter.</p>
+            <p>
+               <hi>All men will be convinc'd,</hi> &amp;c. I can<g ref="char:EOLhyphen"/>not be of that number, until I am satis<g ref="char:EOLhyphen"/>fied that Reduction is the mother of Multiplication.</p>
+            <p>
+               <label>Paragr. XLIII.</label> His Majesty was gratiously pleas'd at the ope<g ref="char:EOLhyphen"/>ning of the last Session of this Parliament, to pro<g ref="char:EOLhyphen"/>pose to the consideration of both Houses, the ballan<g ref="char:EOLhyphen"/>cing
+<pb n="72" facs="tcp:199386:38"/> of the Trade of the Nation; to effect which, in my opinion, the abatement of Interest is the first and principal Engine which ought to be set on work; which notwithstanding, I should not have pre<g ref="char:EOLhyphen"/>sumed to expose it to publike censure on my own sin<g ref="char:EOLhyphen"/>gle Opinion, if I had not the concurrence of much better Judgments then my own; having never seen any thing in print for it (though much a<g ref="char:EOLhyphen"/>gainst it) until the latter end of <hi>January</hi> last, at which time, a Friend whom I had often discoursed with upon this Subject, met with by accident a small Tract to the same purpose, wrote neer fifty years ago, which he gave me; and I have for pub<g ref="char:EOLhyphen"/>like good, thought fit to annex it hereunto, <hi>ver<g ref="char:EOLhyphen"/>batim.</hi> The Author of the said Tract, by the stile thereof seems to have been a Country-Gentle<g ref="char:EOLhyphen"/>man, and my Education hath mostly been that of a Merchant; so I hope that going together, they may in some measure supply the defects of each o<g ref="char:EOLhyphen"/>ther. Another Reason that induced me to the prin<g ref="char:EOLhyphen"/>ting of them together is, because what he wrote then would be the consequence of the abatement of Interest from ten to six <hi>per cent.</hi> I have, I think, proved to the conviction of all men not wilfully blinde, have been the real effects thereof, and that to a greater proportion th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n he did promise: every Paragraph whereof was writ by me, and Copies thereof delivered to several worthy Members of this Parliament, many moneths before ever I saw or heard of this or any thing else, writ or printed to the like purpose.</p>
+            <pb n="73" facs="tcp:199386:38"/>
+            <p>
+               <hi>Exam. XLIII.</hi>
+            </p>
+            <p>My Author makes reduction of Inte<g ref="char:EOLhyphen"/>rest like the Philosophers Stone, <hi>cui so<g ref="char:EOLhyphen"/>lidam fata tulerunt salutem,</hi> the Sove<g ref="char:EOLhyphen"/>raign cure of the Commonwealths ne<g ref="char:EOLhyphen"/>cessities. And as it hath been the cause of the increase of the Trade, Riches and Shipping of the <hi>Dutch,</hi> so by conse<g ref="char:EOLhyphen"/>quence must it be of ours. And from thence he descends to no less then XIX particulars, according to my Collection, <hi>viz.</hi> 1. <hi>The cause of increase of Wo<g ref="char:EOLhyphen"/>mens Portions.</hi> 2. <hi>Of the Riches of our Gentry in their Apparel and Houshold<g ref="char:EOLhyphen"/>stuff.</hi> 3. <hi>Of our multitude of Coaches.</hi> 4. <hi>The cause of our ease in payment of great Taxes.</hi> 5. <hi>Of improving our Cu<g ref="char:EOLhyphen"/>stoms.</hi> 6. <hi>Of increasing our Wharfs and Keys in</hi> London. 7. <hi>Of advancing the Rent of Farms.</hi> 8. <hi>Of advancing the prises of the Fruits of our Land.</hi> 9. <hi>Of raising Lands in the Country to thirty or forty years purchase.</hi> 10. <hi>Of advan<g ref="char:EOLhyphen"/>tage to the King by lessning the Interest he now pays.</hi> 11. <hi>Of care in providing for, and education of Children.</hi> 12. <hi>Of
+<pb n="74" facs="tcp:199386:39"/> doubling the value of the Lands of the King, and of the Nobility and Gen<g ref="char:EOLhyphen"/>try.</hi> 13. <hi>Of the lightning of the yoak of Merchants in Trade.</hi> 14. <hi>Of a full imployment of those of Mecha<g ref="char:EOLhyphen"/>nical Professions.</hi> 15. <hi>Of our produ<g ref="char:EOLhyphen"/>cing</hi> Samson <hi>and</hi> Goliah <hi>Stocks.</hi> 16. <hi>Of the benefit of Sugar-bakers.</hi> 17 <hi>Of the raising great Armies.</hi> 18. <hi>Of the fer<g ref="char:EOLhyphen"/>tility of Land.</hi> 19. <hi>Of ballancing Trade.</hi> And so much do some of these relate either to the rise or abatement of In<g ref="char:EOLhyphen"/>terest-Money, as doth the flux and re<g ref="char:EOLhyphen"/>flux of the Sea at <hi>London</hi>-Bridge.</p>
+            <p>
+               <hi>If I had not the concurrence,</hi> &amp;c. The concurrence of better Judgments with that of my Authors, I must confess is an Argument of more weight with me; al<g ref="char:EOLhyphen"/>though until I am satisfied they are no borrowers, I shall suspect their partia<g ref="char:EOLhyphen"/>lity or ignorance.</p>
+            <p>I am unwilling to meddle with that Country-Gentleman, who fifty years ago wrote the Tract against Usury, <hi>cui sua tranquillum terra cubile dedit,</hi> far<g ref="char:EOLhyphen"/>ther then to draw this Observation, <hi>scil. That no man since, until now</hi> (as I can be inform'd) <hi>hath been of his Opinion.</hi>
+            </p>
+            <pb n="75" facs="tcp:199386:39"/>
+            <p>
+               <hi>Before ever I saw or heard of this or any thing else,</hi> &amp;c. Here my Author is willing to let you know, That, besides the dictates of his good Genius, he had no Co-partner in the discovery.</p>
+            <p>
+               <label>Paragr. XLIV.</label> What I have aimed at in the whole, is the good of my native Country, otherwise I had not busied my self about it; for I want not imployment suffi<g ref="char:EOLhyphen"/>cient of my own, nor have reason to be out of love with that I have. The several particulars in the beginning of this Treatise, relating to Trade, I have only hinted in general terms; hoping that some abler pen will hereafter be incited, for the service of his King and Country, to inlarge more particularly upon them.</p>
+            <p>
+               <hi>Exam. XLIV.</hi>
+            </p>
+            <p>
+               <hi>My native Country,</hi> &amp;c. <hi>In qua nos primum genitales hausimus auras.</hi> It was a good end, if the work had answe<g ref="char:EOLhyphen"/>red it. And that which I have done (I do declare) is neither out of kindness to the Lender, nor unkindness to the bor<g ref="char:EOLhyphen"/>rower, <hi>sed ut res magis valeat quam pereat.</hi>
+            </p>
+            <p>
+               <hi>Some abler Pen,</hi> &amp;c. <hi>Erasmus Rotter<g ref="char:EOLhyphen"/>damus,</hi> who wrote of the shadow of Flies,
+<pb n="76" facs="tcp:199386:40"/> might have taken pains therein had he been living. <hi>At cecinit extremum voce gemente vale.</hi>
+            </p>
+            <p>
+               <label>Paragr. XLV.</label> Before I conclude, though I have studied bre<g ref="char:EOLhyphen"/>vity in the whole, I cannot omit the inserting of one Objection more, which I have lately met with, to the main designe of this Treatise, <hi>viz.</hi> Object. <hi>It is said, that the lowness of Interest of Mo<g ref="char:EOLhyphen"/>ney in</hi> Holland <hi>is not the effect of Laws, but proceeds onely from their abundance thereof, for that in</hi> Holland <hi>there is no Law limitting the Rate of Usury. Answer, 1.</hi> I answer, that it may be true, that in <hi>Holland</hi> there hath not lately been any Law to limit Ʋsury to the present Rate it is now at, <hi>i. e.</hi> three or four <hi>per cent.</hi> although most certain it is, that many years since, there was a Law that did limit it to five or six at most. And by consequence, there would be a renewing of that law to a lesser Rate, were it necessary at this time; It having alwayes been the policy of that People to keep down the Interest of their Money, three or four <hi>per cent.</hi> under the Rate of what it is usually paid in their neigh<g ref="char:EOLhyphen"/>bouring Countries, which (being now natu<g ref="char:EOLhyphen"/>rally done) it is needless to use the artificial Stratagem of a law to establish. <hi>Answ. 2.</hi> Al<g ref="char:EOLhyphen"/>though they have no law expresly limitting Inte<g ref="char:EOLhyphen"/>rest at present, yet they have other laws which we cannot yet arrive to, which do effect the same thing
+<pb n="77" facs="tcp:199386:40"/> among them, and would do the like among us, if we could have them, and whereof is their ascer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aining real securities by their publick Registers: For we see evidently, Money is not so much want<g ref="char:EOLhyphen"/>ing in <hi>England</hi> as Securities which men accompt infallible; a remarkable Instance whereof is, the <hi>East-India</hi> Company, who can and do take up what Mony they please for four <hi>per cent.</hi> at any time. Another Law is, their constitution of Banks and Lumbards, whereby private persons that have but tolerable credit, may be supplied at easie rates from the State. A third and very considerable one, is, their law for transferring of Bills of Debt, mentioned in the beginning of this Discourse. A fourth, which is a custome, and in effect, may be here to our purpose ac<g ref="char:EOLhyphen"/>counted as a Law, is the extraordinary frugality used in all their publike affairs, which in their greatest extremities have been such, as not to com<g ref="char:EOLhyphen"/>pel them to give above four <hi>per cent.</hi> for the loan of Money. Whereas it is said, his Majesty in some cases of Exigency, when the National supplies have not come in to answer the present emergencies of affairs, hath been inforced to give above the usu<g ref="char:EOLhyphen"/>al rates to Goldsmiths: and that incouraged them to take up great sums from private persons at the full rate of six <hi>per cent.</hi> whereas formerly they u<g ref="char:EOLhyphen"/>sually gave but four <hi>per cent.</hi> otherwise in hu<g ref="char:EOLhyphen"/>mane probability, Money would have fallen of it self to four <hi>per cent.</hi> But again, to conclude, every Nation does proceed according to peculiar Me<g ref="char:EOLhyphen"/>thods of their own in the transaction of their pub<g ref="char:EOLhyphen"/>like affairs and Law-making. And in this King<g ref="char:EOLhyphen"/>dom
+<pb n="78" facs="tcp:199386:41"/> it hath always been the Custome to reduce the rate of Interest by a Law, when Nature had pre<g ref="char:EOLhyphen"/>pared the matter fit for such an alteration, as now, I say, it hath. By a Law it was reduced from an unlimited rate to ten; and afterwards from ten to eight; after that from eight to six. And through the blessing of the Almighty God, this Kingdom hath found, as I think I have fully proved, and every mans experience will witness, prodigious suc<g ref="char:EOLhyphen"/>cess and advantage thereby: And I doubt not, through the like blessing of God Almighty, but this Generation will find the like great and good ef<g ref="char:EOLhyphen"/>fects, by the reduction of it from six to four, which is now at the birth: And that the next Generation will yet see far greater advantage by bringing it from four to three <hi>per cent.</hi>
+            </p>
+            <p>
+               <hi>Exam. XLV.</hi>
+            </p>
+            <p>Here my Authors modesty appears sufficiently, that he will not permit his Answers to come too near the substance of the Question. Yet is sollicitous to perswade you, That if Loan were not already at 3 or 4 <hi>per cent.</hi> in <hi>Holland</hi> by the favour of the peoples fortunes, he is assured it would be made so by Law; and gives you for reason, because it hath been once reduc'd, by consequence it must be so again, until at last it be
+<pb n="79" facs="tcp:199386:41"/> reduc'd to nothing; so the latter end of the World, especially for our Trades<g ref="char:EOLhyphen"/>men, will be the golden Age, better then the beginning.</p>
+            <p>
+               <hi>It being the Policy of that people to keep down,</hi> &amp;c. That Policy is no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hing else but their wealth; for if they wanted Money as much as we in <hi>England,</hi> they would give ten <hi>per cent.</hi> rather then be without it. And 'tis a great mistake that Money is here more plentiful then Securities; for we have five Securities for one sum, as in <hi>Hol<g ref="char:EOLhyphen"/>land</hi> they have five sums for one Secu<g ref="char:EOLhyphen"/>rity (and as we had in <hi>England,</hi> when the Rate was higher) And indeed, if the matter were with us so prepared for an Abatement, as it is with them, we should need no Law to effect it. As to that instance of the Goldsmiths, I ne<g ref="char:EOLhyphen"/>ver yet understood that they were usu<g ref="char:EOLhyphen"/>ally trusted with Money at four <hi>per cent.</hi> but sometimes perhaps at five, in these cases, <hi>scil.</hi> when the Money lent them, was designed for Trade, or until the Lender fitted himself with other se<g ref="char:EOLhyphen"/>curity: For the wisest of their Creditors made use of them only as a stool of Of<g ref="char:EOLhyphen"/>fice,
+<pb n="80" facs="tcp:199386:42"/> for their present occasions, until of late, either their necessities, or ex<g ref="char:EOLhyphen"/>pectances of profit, have caus'd them to give six; which indeed hath pro<g ref="char:EOLhyphen"/>cured them a more general Credit: but this is rather an Argument of the scarcity of Money, then of the plenty; and so I believe most Gentlemen of <hi>England</hi> have experienc'd it. As to that of the <hi>East-India</hi>-Company, ad<g ref="char:EOLhyphen"/>mitting it true, that is no material In<g ref="char:EOLhyphen"/>stance of the plenty of money through<g ref="char:EOLhyphen"/>out <hi>England:</hi> First, Because few other So<g ref="char:EOLhyphen"/>cieties have that Credit: And second<g ref="char:EOLhyphen"/>ly, Because it is onely in <hi>London.</hi> And I cannot think it any good Argument of a general plenty, if every Citizen of <hi>London</hi> that wants Money might bor<g ref="char:EOLhyphen"/>row it at four <hi>per cent.</hi> when none o<g ref="char:EOLhyphen"/>ther of the Nation can hardly have it under eight.</p>
+            <p>Publick Registers, Banks, Transposi<g ref="char:EOLhyphen"/>tion of Debts, and Frugality, have been already considered as far as at this time I have thought necessary: And though I have hitherto followed my Au<g ref="char:EOLhyphen"/>thor in some Repetitions, I am now wil<g ref="char:EOLhyphen"/>ling to leave trifling, <hi>Et dare vela retror<g ref="char:EOLhyphen"/>sum.</hi>
+               <pb n="81" facs="tcp:199386:42"/> Onely give me leave in taking it, to deliver my opinion, That if in<g ref="char:EOLhyphen"/>stead of a Law to reduce mony, the Current whereof already runs too low, a Law were made to advance it; or o<g ref="char:EOLhyphen"/>therwise, that the Money we now have may be the better preserved and im<g ref="char:EOLhyphen"/>ployed, it were Enacted, if the Wis<g ref="char:EOLhyphen"/>dom of his Majesty and Parliament so thought fit,</p>
+            <p>
+               <hi>That every man below the de<g ref="char:EOLhyphen"/>gree of a Peer of this Realm, who shall become Indebted by Money bor<g ref="char:EOLhyphen"/>rowed at Interest above Ten Thou<g ref="char:EOLhyphen"/>sand Pounds, shall be a Bank<g ref="char:EOLhyphen"/>rupt.</hi>
+            </p>
+            <p n="1">I. This would make many extrava<g ref="char:EOLhyphen"/>gant persons sensible of their danger, and so retrench their exorbitancies.</p>
+            <p n="2">II. It would preserve some main<g ref="char:EOLhyphen"/>tainance for persons of fortunes insen<g ref="char:EOLhyphen"/>sible of their excesses, by putting their Estates into the hands of better Guar<g ref="char:EOLhyphen"/>dians.</p>
+            <p n="3">
+               <pb n="82" facs="tcp:199386:43"/>III. It would secure unto Creditors their Estates: for many now whose debts through imprudence exceed that sum, convey their Lands to their Chil<g ref="char:EOLhyphen"/>dren or Friends, and leave onely (though not always) their bodies to make satis<g ref="char:EOLhyphen"/>faction.</p>
+            <p n="4">IV. It would be a means that the Cash of the Nation be distributed into divers hands, whereas now the propor<g ref="char:EOLhyphen"/>tion is so unequal, that some persons have too much credit; and others, though very meriting and ingenious, too little.</p>
+            <p n="5">V. It would make the passage of the Kings Revenues and Aids into his Exchequer more polite and facile then now it is, in cutting off those private Channels, by which the vigor of that Stream hath (to his Majesties exceed<g ref="char:EOLhyphen"/>ing detriment) been too long diverted.</p>
+            <epigraph>
+               <q>Et salus Populi suprema lex esto.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:199386:43"/>
+         </div>
+      </body>
+   </text>
+</TEI>
